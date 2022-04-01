@@ -10,12 +10,11 @@ A 15 day  **Open Source** Bootcamp on my Twitter handle, in that we will go thro
 
 <br/>
  
-|                 Day-Date                      |                        Post                           |                   Post Link             |        
-|:---------------------------------------------:|-------------------------------------------------------|-------------------------------------------|
-|**Day 0** - (28-03-2022)|<img src="https://user-images.githubusercontent.com/51878265/160536236-b73755ca-40ea-4485-8da8-0d41fa2767c0.png" height="300">| https://bit.ly/3NsdMs5| 
-|**Day 1** - (01-04-2022)|       |       |
-|                    |       |       |
-
+|    **Day-Date**    |   **Post**  |   **Twitter Post Link**  |  **Blog Link** |      
+|:------------------:|-------------|:------------------------:|:--------------:|
+|**Day 0** - (28-03-2022)|<img src="https://user-images.githubusercontent.com/51878265/160536236-b73755ca-40ea-4485-8da8-0d41fa2767c0.png" height="300">| [`Twitter`](https://bit.ly/3NsdMs5) | N/A |
+|**Day 1** - (01-04-2022)|<img src="https://user-images.githubusercontent.com/51878265/161235225-98817584-51f5-4471-808b-bc08bb0a1020.png" height="300">| [`Twitter`](https://bit.ly/36JQsFG) | [`Blog`](https://bit.ly/3tXocby) |
+|**Day 2** - (02-04-2022)| | | |
 ---
 
 <h3 align = "center">Don't forget to ⭐ this repo<h3>
