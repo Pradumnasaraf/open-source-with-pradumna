@@ -6,6 +6,8 @@
 
 A 15 day  **Open Source** Bootcamp on my Twitter handle, in that we will go through all the elements that are involved in Open Source and its community. We also touch on technical concepts like Pull Requests, Issues, etc.
 
+Alongside I will be publish the **Blogs** with the same content which I am putting on the Twitter, Links 👇
+
 > **Don't forget to visit and follow [`@Pradumna_saraf`](https://twitter.com/pradumna_saraf)**
 
 <br/>
@@ -17,9 +19,11 @@ A 15 day  **Open Source** Bootcamp on my Twitter handle, in that we will go thro
 |**Day 2** - (02-04-2022)|<img src="https://user-images.githubusercontent.com/51878265/161374406-afdf8dd5-6154-4e1a-875c-0d184db33761.png" height="300">| [`Twitter`](https://twitter.com/pradumna_saraf/status/1510161541827821569?s=20&t=tYPqxBXFznQVemAXnb19kA) | [`Blog`](https://blog.pradumnasaraf.co/what-is-a-version-control-system-vcs) |
 |**Day 3** - (03-04-2022)|<img src="https://user-images.githubusercontent.com/51878265/161439591-73b7e813-86f2-4869-b0b6-ba039cb9d123.png" height="300">| [`Twitter`](https://twitter.com/pradumna_saraf/status/1510513494629941248?s=20&t=GG-Ukpw7awJ61u2yPEUUjg) | [`Blog`](https://blog.pradumnasaraf.co/what-is-a-code-hosting-platform) |
 |**Day 4** - (04-04-2022)|<img src="https://user-images.githubusercontent.com/51878265/161497829-2c8cc13f-d348-486f-a6ce-503e7dcdac7e.png" height="300">| [`Twitter`](https://twitter.com/pradumna_saraf/status/1510882613707538439?s=20&t=GG-Ukpw7awJ61u2yPEUUjg) | [`Blog`](https://blog.pradumnasaraf.co/what-is-a-repository) |
-|**Day 5** - (05-04-2022)|<img src="https://user-images.githubusercontent.com/51878265/161792152-eb51daa6-bd6a-43af-887f-8163a44c0c9a.png" height="300">| [`Twitter`](https://twitter.com/pradumna_saraf/status/1511250462506614789?s=20&t=hmSVWyXd_Jbl4ztFtEbFhA) | [`Blog`](https://blog.pradumnasaraf.co/what-is-an-open-source-contribution) |
+|**Day 5** - (05-04-2022)|<img src="https://user-images.githubusercontent.com/51878265/161792152-eb51daa6-bd6a-43af-887f-8163a44c0c9a.png" height="300">| [`Twitter`](https://twitter.com/pradumna_saraf/status/1511250462506614789?s=20&t=hmSVWyXd_Jbl4ztFtEbFhA) | [`Blog`](https://blog.pradumnasaraf.co/what-is-an-open-source-contribution)|
+|**Day 6** - (06-4-2022)|<img src="https://user-images.githubusercontent.com/51878265/161997457-b1965b04-d43b-42fd-a1c6-5f4b90b579e5.png" height="300">| [`Twitter`](https://twitter.com/pradumna_saraf/status/1511596794987552771?s=20&t=HSO5HvApxyRyXhVTCN1cvg) | [`Blog`](https://blog.pradumnasaraf.co/what-is-pull-request-pr) |
 | | | | |
 | | | | |
+
 
 ---
 
