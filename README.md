@@ -22,6 +22,7 @@ Alongside I will be publish the **Blogs** with the same content which I am putti
 |**Day 5** - (05-04-2022)|<img src="https://user-images.githubusercontent.com/51878265/161792152-eb51daa6-bd6a-43af-887f-8163a44c0c9a.png" height="300">| [`Twitter`](https://twitter.com/pradumna_saraf/status/1511250462506614789?s=20&t=hmSVWyXd_Jbl4ztFtEbFhA) | [`Blog`](https://blog.pradumnasaraf.co/what-is-an-open-source-contribution)|
 |**Day 6** - (06-04-2022)|<img src="https://user-images.githubusercontent.com/51878265/161997457-b1965b04-d43b-42fd-a1c6-5f4b90b579e5.png" height="300">| [`Twitter`](https://twitter.com/pradumna_saraf/status/1511596794987552771?s=20&t=HSO5HvApxyRyXhVTCN1cvg) | [`Blog`](https://blog.pradumnasaraf.co/what-is-pull-request-pr) |
 |**Day 7** - (07-04-2022)|<img src="https://user-images.githubusercontent.com/51878265/162221303-45f9cc47-2021-4a91-bb82-1481c7bf75d6.png" height="300">| [`Twitter`](https://twitter.com/pradumna_saraf/status/1511979715137269762?s=20&t=qpehHoByWf9HYwNLgIq5Eg) | [`Blog`](https://blog.pradumnasaraf.co/what-are-the-issues) |
+|**Day 8** - (08-04-2022)|<img src="https://user-images.githubusercontent.com/51878265/162553119-2d600feb-2943-43d6-be71-6acc771cf709.png" height="300">| [`Twitter`](https://twitter.com/pradumna_saraf/status/1512331039468756996?s=20&t=WLR8fYIFIzzAxUquYfGIKw) | [`Blog`](https://blog.pradumnasaraf.co/what-are-branches) |
 | | | | |
 | | | | |
 
