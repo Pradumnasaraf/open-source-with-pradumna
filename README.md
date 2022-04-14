@@ -30,6 +30,7 @@ Alongside I will be publish the **Blogs** with the same content which I am putti
 |**Day 11** - (11-04-2022)|<img src="https://user-images.githubusercontent.com/51878265/162680842-28843dce-7bfd-47de-9b04-d5aacf6942b3.png" height="300">| [`Twitter`](https://twitter.com/pradumna_saraf/status/1513407806279356417?s=20&t=SRmQN1v4fCj_jJM_5n67TQ) | [`Blog`](https://blog.pradumnasaraf.co/open-source-community) |
 |**Day 12** - (12-04-2022)|<img src="https://user-images.githubusercontent.com/51878265/162926566-e0e9b022-0ef7-4446-8a2a-16546cd4c23b.png" height="300">| [`Twitter`](https://twitter.com/pradumna_saraf/status/1513776539481305094?s=20&t=PtRQpxmJQv0YeEO8-8rtMQ) | [`Blog`](https://blog.pradumnasaraf.co/github-profile)|
 |**Day 13** - (13-04-2022)|<img src="https://user-images.githubusercontent.com/51878265/163131459-b95b2ca6-c1b1-4ec4-9cc5-379cd270b9c4.png" height="300">| [`Twitter`](https://twitter.com/pradumna_saraf/status/1514141210793082882?s=20&t=4qHBlQbv-pmyn_U3LsRQXA) | [`Blog`](https://blog.pradumnasaraf.co/open-source-tools)|
+|**Day 14** - (14-04-2022)|<img src="https://user-images.githubusercontent.com/51878265/163329388-4421757a-6dd2-426e-8708-d08544cb3a43.png" height="300">| [`Twitter`](https://twitter.com/pradumna_saraf/status/1514487337576976384?s=20&t=5ktcM6JM8XOm1AOdqvFtgg) | [`Blog`](https://blog.pradumnasaraf.co/open-source-best-practices)|
 | | | | |
 
 ---
