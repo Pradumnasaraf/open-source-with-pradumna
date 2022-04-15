@@ -1,6 +1,6 @@
 ![Open Source With Pradumna](https://user-images.githubusercontent.com/51878265/160343560-2ae1addf-c4d0-444b-ab0d-b3d033265055.png)
 
-<h3 align="center"></b>"Building the repo, you need to get started with Open Source"</b></h3>
+<h3 align="center"><b>"Building the repo, you need to get started with Open Source"</b></h3>
 
 <br/>
 
@@ -31,7 +31,9 @@ Alongside I will be publish the **Blogs** with the same content which I am putti
 |**Day 12** - (12-04-2022)|<img src="https://user-images.githubusercontent.com/51878265/162926566-e0e9b022-0ef7-4446-8a2a-16546cd4c23b.png" height="300">| [`Twitter`](https://twitter.com/pradumna_saraf/status/1513776539481305094?s=20&t=PtRQpxmJQv0YeEO8-8rtMQ) | [`Blog`](https://blog.pradumnasaraf.co/github-profile)|
 |**Day 13** - (13-04-2022)|<img src="https://user-images.githubusercontent.com/51878265/163131459-b95b2ca6-c1b1-4ec4-9cc5-379cd270b9c4.png" height="300">| [`Twitter`](https://twitter.com/pradumna_saraf/status/1514141210793082882?s=20&t=4qHBlQbv-pmyn_U3LsRQXA) | [`Blog`](https://blog.pradumnasaraf.co/open-source-tools)|
 |**Day 14** - (14-04-2022)|<img src="https://user-images.githubusercontent.com/51878265/163329388-4421757a-6dd2-426e-8708-d08544cb3a43.png" height="300">| [`Twitter`](https://twitter.com/pradumna_saraf/status/1514487337576976384?s=20&t=5ktcM6JM8XOm1AOdqvFtgg) | [`Blog`](https://blog.pradumnasaraf.co/open-source-best-practices)|
+|**Day 15** - (15-04-2022)|<img src="https://user-images.githubusercontent.com/51878265/163569718-29be183b-8a5a-41f5-ac91-63fe31e1803b.png" height="300">| [`Twitter`](https://twitter.com/pradumna_saraf/status/1514869357650022402?s=20&t=-oOTgWAHPyU-qx9GOHABNg) | [`Blog`](https://blog.pradumnasaraf.co/open-source-programs)|
 | | | | |
+
 
 ---
 
