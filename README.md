@@ -4,16 +4,23 @@
 
 <br/>
 
-A 15 day  **Open Source** Bootcamp on my Twitter handle, in that we will go through all the elements that are involved in Open Source and its community. We also touch on technical concepts like Pull Requests, Issues, etc.
-
-Alongside I will be publish the **Blogs** with the same content which I am putting on the Twitter, Links 👇
+This repo contains all my 15 days of **Open Source** Bootcamp on my Twitter, and all the content I produce daily.
 
 > **Don't forget to visit and follow [`@Pradumna_saraf`](https://twitter.com/pradumna_saraf)**
 
-> **Check out all the Blogs at - [`blog.pradumnasaraf.co`](https://blog.pradumnasaraf.co/)**
+## Daily Content
 
-<br/>
+<details>
  
+<summary> Click here see daily content </summary>
+
+|    Topic           |   Link     |   
+|:------------------:|-------------|
+|||
+</details>
+ 
+## 15 Days of Bootcamp
+
 |    **Day-Date**    |   **Post**  |   **Twitter Post Link**  |  **Blog Link** |      
 |:------------------:|-------------|:------------------------:|:--------------:|
 |**Day 0** -  (28-03-2022)|<img src="https://user-images.githubusercontent.com/51878265/160536236-b73755ca-40ea-4485-8da8-0d41fa2767c0.png" height="300">| [`Twitter`](https://twitter.com/pradumna_saraf/status/1508363401214717953?s=20&t=tYPqxBXFznQVemAXnb19kA) | N/A |
@@ -35,6 +42,5 @@ Alongside I will be publish the **Blogs** with the same content which I am putti
 | | | | |
 
 
----
 
 <h3 align = "center">Don't forget to ⭐ this repo<h3>
