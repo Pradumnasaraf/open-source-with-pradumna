@@ -9,14 +9,13 @@ This repo contains all my 15 days of **Open Source** Bootcamp on my Twitter, as 
 ## Repo Navigation
 The repo content is divided in sevral [`pages`](/pages) for easy naviagtion and making the learning easy. For eg: there is seprate page for leraning sesouces </b>
 
-
-   
+  
 |               Section/pages             |              Page           |
 |:---------------------------------------:|:---------------------------:|
-|        15 Days of Open Source           |                             |
-|        Daily Tweet/Content              |                             |
-|        Resources            |                             |
-|        15 Days of Open Source            |                             |
+|        15 Days of Open Source           |   [`pages/Bootcamp`](pages/Bootcamp) |
+|        Daily Content                    |   [`pages/Bootcamp`](pages/Bootcamp) |                          
+|        Resources                        |   [`pages/Bootcamp`](pages/Bootcamp) |                          
+|        Cheatsheet                       |   [`pages/Bootcamp`](pages/Bootcamp) |                         
 
 
 
