@@ -2,6 +2,8 @@
 
 #### Contains the Cheat sheets, you can simply click on the file to download it PDF format.
 
+<br>
+<br>
 
 |Name               |              Preview                                                                                                          |Maker          |      Downloadable file   |
 |:-----------------:|-------------------------------------------------------------------------------------------------------------------------------|---------------|:------------------------:|
