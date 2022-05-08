@@ -12,10 +12,10 @@ The repo content is divided in sevral [`pages`](/pages) for easy naviagtion and 
   
 |               Section/pages             |              Page           |
 |:---------------------------------------:|:---------------------------:|
-|        15 Days of Open Source           |   [`pages/Bootcamp`](/pages/Bootcamp) |
-|        Daily Content                    |   [`pages/Bootcamp`](/pages/Bootcamp) |                          
-|        Resources                        |   [`pages/Bootcamp`](/pages/Bootcamp) |                          
-|        Cheatsheet                       |   [`pages/Bootcamp`](/pages/Bootcamp) |                         
+|        15 Days of Open Source           |   [`pages/Bootcamp`](/pages/Bootcamp.md) |
+|        Daily Content                    |   [`pages/Bootcamp`](/pages/Bootcamp.md) |                          
+|        Resources                        |   [`pages/Bootcamp`](/pages/Bootcamp.md) |                          
+|        Cheatsheet                       |   [`pages/Bootcamp`](/pages/Bootcamp.md) |                         
 
 
 
