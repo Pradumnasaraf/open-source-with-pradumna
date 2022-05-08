@@ -2,11 +2,9 @@
 
 <h3 align="center"><b>"Building the repo, you need to get started with Open Source"</b></h3>
 
-<br/>
-
 This repo contains all my 15 days of **Open Source** Bootcamp on my Twitter, and all the content I produce daily.
 
-> **Don't forget to visit and follow [`@Pradumna_saraf`](https://twitter.com/pradumna_saraf)**
+> **Follow [`@Pradumna_saraf`](https://twitter.com/pradumna_saraf) to learn more about it.**
 
 ## Daily Content
 
