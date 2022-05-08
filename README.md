@@ -16,6 +16,8 @@ This repo contains all my 15 days of **Open Source** Bootcamp on my Twitter, and
 |:------------------:|-------------|
 |||
 </details>
+
+[Cheatsheet](/CHEATSHEET.md)
  
 ## 15 Days of Bootcamp
 
