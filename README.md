@@ -2,12 +2,14 @@
 
 <h3 align="center"><b>"Building the repo, you need to get started with Open Source"</b></h3>
 
-This repo contains all my 15 days of **Open Source** Bootcamp on my Twitter, as well as the content I post on daily.
+This repo contains contains resouces and materails to learn about Open Source, Git and GitHub.
+
+### Repo Navigation
+The repo content is divided in sevral [`pages`](/pages) for easy naviagtion and making the learning easy. For eg: there is seprate page for leraning sesouces </b>
 
 > **Follow [`@Pradumna_saraf`](https://twitter.com/pradumna_saraf) to learn more about it.**
 
-## Repo Navigation
-The repo content is divided in sevral [`pages`](/pages) for easy naviagtion and making the learning easy. For eg: there is seprate page for leraning sesouces </b>
+
 
   
 |               Section/pages             |              Page           |
