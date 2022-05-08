@@ -5,7 +5,6 @@
 <h3 align="center"><b>"Building the repo, you need to get started with Open Source"</b></h3>
 
 <br>
-<br>
 
 ## Repo Navigation
 
