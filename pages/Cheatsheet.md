@@ -1,8 +1,8 @@
 <h1 align ="center">Cheat Sheet</h1>
 
-#### Contains the Cheat sheets, you can simply click on the file to download it PDF format.
-</br>
-</br>
+####        <h1 align ="center">Contains the Cheat sheets, you can simply click on the file to download it PDF format.</h1>                        
+<br>
+<br>
 
 |Name               |              Preview                                                                                                          |Maker          |      Downloadable file   |
 |:-----------------:|-------------------------------------------------------------------------------------------------------------------------------|---------------|:------------------------:|
