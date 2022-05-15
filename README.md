@@ -1,3 +1,4 @@
+
 <p align="center"><img src="https://user-images.githubusercontent.com/51878265/167289706-c7efc126-7e9e-4eb8-9472-b288785cb7bc.png"></p>
 
 
@@ -23,14 +24,17 @@ The repo content is divided into several [`Pages`](/pages) for better structurin
 #### Table of Pages
 
 |                                                 Section/pages                                                     | Description   |  Page (Link- clickable)          |
-|-----------------------------------------------------------------------------------------------------------------|-------------|---------------------------|
-|![Bootcamp](https://user-images.githubusercontent.com/51878265/167285611-0a98a158-f65d-4032-89b9-04fe1cb102dc.png)| It contains 15 days of Twitter threads and blogs that I posted during the Bootcamp. |[`pages/Bootcamp`](/pages/Bootcamp.md)|
-|![Regular Content](https://user-images.githubusercontent.com/51878265/167285604-e16addac-a9be-4a1d-8470-17203405684a.png)|Informational content, that I and other community people post.|[`pages/Regular`](/pages/Regular.md) |                          
-|![Resources](https://user-images.githubusercontent.com/51878265/167285609-444adcce-d15b-49f4-89b4-2e1fca72cdf4.png)| Other Resources like Video, Blog and images, to learn Open Souce, Git, and Github |[`pages/Resourses`](/pages/Resources.md) |                          
-|![Cheat Sheet](https://user-images.githubusercontent.com/51878265/167285608-58c581f4-bd98-41e0-b7e4-0ea6e2189432.png)| Cheatsheet for Git, Markdown, and GitHub |[`pages/Cheatsheet`](/pages/Cheatsheet.md) |   
-|![Beginner](https://user-images.githubusercontent.com/51878265/167289434-67ae1c22-2615-4332-8e92-31125468bc86.png)| Contains repo link for Beginner friendly projects |[`pages/Beginners`](/pages/Beginners.md) |                       
-|![How to](https://user-images.githubusercontent.com/51878265/167332249-862a9c86-e414-4b06-9c8f-a78a0b927ac5.png)|Conatins step by step (Written + Screenshot + Video) on how to create an Issues, how to fork a repo, etc |[`pages/How`](/pages/How.md) |
+|-----------------------------------------------------------------------------------------------------------------|-------------|:---------------------------:|
+|![Bootcamp](https://user-images.githubusercontent.com/51878265/168463645-c86af31b-2fc7-4b44-8470-04ce3c6288b5.png)| It contains 15 days of Twitter threads and blogs that I posted during the Bootcamp. |[`pages/Bootcamp`](/pages/Bootcamp.md)|
+|![How to](https://user-images.githubusercontent.com/51878265/168463638-385a02e5-9766-4db8-8623-ac77dcaac301.png)|Conatins step by step (Written + Screenshot + Video) on how to create an Issues,fork, etc |[`pages/How-to`](/pages/How-to/README.md) |
+|![Resources](https://user-images.githubusercontent.com/51878265/168463644-8a9630b9-778f-4464-a361-0122ff952801.png)| Other Resources like Video, Blog and images, to learn Open Souce, Git, and Github |[`pages/Resourses`](/pages/Resources.md) |  
+|![Beginner](https://user-images.githubusercontent.com/51878265/168463641-4fb842ca-d94b-4083-be63-31933539f546.png)| Contains repo link for Beginner friendly projects |[`pages/Beginners`](/pages/Beginners.md) |                       
+|![Regular Content](https://user-images.githubusercontent.com/51878265/168463643-3a172c6c-156b-4ab2-94f6-c6c5335d0e46.png)|Informational content, that I and other community people post.|[`pages/Regular`](/pages/Regular.md) | 
+
 
 ---
 
 <h3 align = "center">Don't forget to ⭐ this repo<h3>
+
+
+
