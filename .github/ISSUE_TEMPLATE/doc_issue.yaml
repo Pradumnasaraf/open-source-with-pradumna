@@ -1,4 +1,4 @@
-name: 📄 Documentation issue
+name: 📄 Documentation
 description: Found an issue in the documentation? You can use this one!
 title: '[DOCS] <description>'
 labels: ['documentation']
