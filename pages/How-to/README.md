@@ -2,8 +2,17 @@
 
 |Activities| Procedure |
 |---|--|
-|![5](https://user-images.githubusercontent.com/51878265/168458567-f84d21e4-9531-488e-8ab1-357f60c7f9f9.png)|[`Process`](activities/adding-pr-template.md)|
-|![4](https://user-images.githubusercontent.com/51878265/168458568-06b53095-6b44-4ec9-a84b-88b9db7d2599.png)|[`Process`](activities/adding-pr-template.md)|
-|![3](https://user-images.githubusercontent.com/51878265/168458570-8d489112-ed50-49a1-b6ba-6167bef6c8bf.png)|[`Process`](activities/adding-pr-template.md)|
-|![2](https://user-images.githubusercontent.com/51878265/168458571-015da135-7c2f-48f2-91bc-0868df1f5120.png)|[`Process`](activities/adding-pr-template.md)|
-|![1](https://user-images.githubusercontent.com/51878265/168458572-58e19d1b-94ff-4dc8-b2b8-d76637d55ddb.png)|[`Process`](activities/rasing-issue.md)|
+|![Raising an Issue](https://user-images.githubusercontent.com/51878265/168459205-ac9788ad-03b1-4641-99e5-829ec5427fb1.png)|[`PROCESS`](activities/adding-funding.md)|
+|![Creating a PR](https://user-images.githubusercontent.com/51878265/168459204-d2dc1288-9cd7-4a85-9699-bad4e99fc6de.png)|[`PROCESS`](activities/adding-funding.md)|
+|![Adding sponser](https://user-images.githubusercontent.com/51878265/168459203-5a48fe40-2c85-4339-bf49-6a9925dc7af5.png)| [`PROCESS`](activities/adding-funding.md)|
+|![discussion](https://user-images.githubusercontent.com/51878265/168459202-9f5908ee-10b7-4e3a-8736-f1b789504546.png)| [`PROCESS`](activities/adding-funding.md)|
+|![linking an Issue to PR](https://user-images.githubusercontent.com/51878265/168459199-48b1535f-64b6-4620-a7eb-b568417cc9b2.png)|[`PROCESS`](activities/adding-funding.md)|
+|![Reviewing a PR](https://user-images.githubusercontent.com/51878265/168459198-cc900a75-13d7-42fb-adf3-949338fd979e.png)|[`PROCESS`](activities/adding-funding.md)|
+|![Cloning a repo](https://user-images.githubusercontent.com/51878265/168459197-34162762-6713-4dcd-afc7-507401862a5d.png)|[`PROCESS`](activities/adding-funding.md)|
+|![Adding Issue templates](https://user-images.githubusercontent.com/51878265/168459196-0446b6c7-c5cf-4a1b-9861-bfd09cf09190.png)|[`PROCESS`](activities/adding-funding.md)|
+|![Adding PR template](https://user-images.githubusercontent.com/51878265/168459195-33767b18-c797-47cc-ad80-94c79ea3b242.png)|[`PROCESS`](activities/adding-funding.md)|
+|![Assigning an Issue](https://user-images.githubusercontent.com/51878265/168459193-0f7b246b-eb1b-41bb-8537-11909d1752a5.png)|[`PROCESS`](activities/adding-funding.md)|
+
+
+
+
