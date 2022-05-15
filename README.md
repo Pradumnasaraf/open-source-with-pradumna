@@ -23,7 +23,7 @@ The repo content is divided into several [`Pages`](/pages) for better structurin
 #### Table of Pages
 
 |                                                 Section/pages                                                     | Description   |  Page (Link- clickable)          |
-|-----------------------------------------------------------------------------------------------------------------|-------------|---------------------------|
+|-----------------------------------------------------------------------------------------------------------------|-------------|:---------------------------:|
 |![Bootcamp](https://user-images.githubusercontent.com/51878265/167285611-0a98a158-f65d-4032-89b9-04fe1cb102dc.png)| It contains 15 days of Twitter threads and blogs that I posted during the Bootcamp. |[`pages/Bootcamp`](/pages/Bootcamp.md)|
 |![How to](https://user-images.githubusercontent.com/51878265/167332249-862a9c86-e414-4b06-9c8f-a78a0b927ac5.png)|Conatins step by step (Written + Screenshot + Video) on how to create an Issues,fork, etc |[`pages/How-to`](/pages/How-to/README.md) |
 |![Resources](https://user-images.githubusercontent.com/51878265/167285609-444adcce-d15b-49f4-89b4-2e1fca72cdf4.png)| Other Resources like Video, Blog and images, to learn Open Souce, Git, and Github |[`pages/Resourses`](/pages/Resources.md) |  
