@@ -1,4 +1,9 @@
-#### This file contain the process and steps for performing activities is like creating an issue, raising a PR.
+<div align="center">
+<h3>Step by step guilde to perform the activites like "Raising an PR", "Clonning a repo", etc.</h3>
+<p>Each topic/guide has its own separate Markdown file [] with detailed explanation including <b>Text, Photo, Video, Etc</b></p>
+</div>
+  
+<br>
 
 |Activities| Procedure |
 |---|--|
