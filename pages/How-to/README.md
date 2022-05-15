@@ -8,7 +8,7 @@
 |Activities| Procedure |
 |---|--|
 |![Raising an Issue](https://user-images.githubusercontent.com/51878265/168460126-9873831f-72a8-4239-8788-9ae91e00752b.png)|[`PROCESS`](guide/rasing-issue.md)|
-|![Creating a PR](https://user-images.githubusercontent.com/51878265/168460125-9bf25668-dbe8-43bd-abc9-a4a08fd16986.png)|[`PROCESS`](guide/creating-PR.md)|
+|![Creating a PR](https://user-images.githubusercontent.com/51878265/168460125-9bf25668-dbe8-43bd-abc9-a4a08fd16986.png)|[`PROCESS`](guide/creating-pr.md)|
 |![Adding sponsor](https://user-images.githubusercontent.com/51878265/168460168-0ca34fac-f57f-4e2a-ae9a-aa612248adb2.png)| [`PROCESS`](guide/adding-sponsor.md)|
 |![discussion](https://user-images.githubusercontent.com/51878265/168459202-9f5908ee-10b7-4e3a-8736-f1b789504546.png)| [`PROCESS`](guide/starting-discussion.md)|
 |![linking an Issue to PR](https://user-images.githubusercontent.com/51878265/168459199-48b1535f-64b6-4620-a7eb-b568417cc9b2.png)|[`PROCESS`](guide/linking-issue-with-pr.md)|
