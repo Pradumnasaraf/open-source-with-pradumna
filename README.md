@@ -1,6 +1,5 @@
 
-<p align="center"><img src="https://user-images.githubusercontent.com/51878265/167289706-c7efc126-7e9e-4eb8-9472-b288785cb7bc.png"></p>
-
+![open-source-with-pradumna](https://socialify.git.ci/Pradumnasaraf/open-source-with-pradumna/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F51878265%2F167289706-c7efc126-7e9e-4eb8-9472-b288785cb7bc.png&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark)
 
 
 <h3 align="center"><b>"Building the repo, you need to get started with Open Source"</b></h3>
