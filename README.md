@@ -1,6 +1,12 @@
+<div class="badges" align="center">
+  <a href="Pradumnasaraf/open-source-with-pradumna"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+  <a href="https://github.com/Pradumnasaraf/open-source-with-pradumna/graphs/contributors"><img src="https://img.shields.io/github/contributors/Pradumnasaraf/open-source-with-pradumna?color=brightgreen"></a>
+  <img src="https://github-size-badge.herokuapp.com/Pradumnasaraf/open-source-with-pradumna.svg" />
+</div>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/51878265/167289706-c7efc126-7e9e-4eb8-9472-b288785cb7bc.png"></p>
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Pradumnasaraf/open-source-with-pradumna)
 
 
 <h3 align="center"><b>"Building the repo, you need to get started with Open Source"</b></h3>
