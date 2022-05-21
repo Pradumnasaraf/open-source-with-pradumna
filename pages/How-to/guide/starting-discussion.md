@@ -8,6 +8,6 @@
 - Add title and description of the discussion you want to start
 - Tap "Start Discussion" button to open your discussion.
 
-**For a more detailed explination, please visit [GitHub Docs](https://docs.github.com/en/discussions/quickstart#Creating-a-new-discusssion)**
+**For a more detailed explanation, please visit [GitHub Docs](https://docs.github.com/en/discussions/quickstart#Creating-a-new-discusssion)**
 
 
