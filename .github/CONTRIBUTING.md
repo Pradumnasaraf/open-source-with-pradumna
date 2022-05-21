@@ -10,3 +10,11 @@ A 15 day Open Source Bootcamp on my Twitter handle, in that we will go through a
 ### Resources
 The file [Resouces.md](/pages/Resouces.md) displays a bunch of a amazing resouces which will really help with your open-source journey/your journey with Git products (GitHub, GitLab, BitBucket)
 
+## How To Directory
+
+### README
+The file [README.md](/pages/How-to/README.md) lists a bunch of activities which need to, have been, and which are in progress for the guide for open-source contributors.
+
+
+
+
