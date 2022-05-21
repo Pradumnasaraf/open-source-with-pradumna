@@ -4,5 +4,4 @@
 
 ## Current Issue Open
 
-- The current is open is located at [#11](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/11)
 - The current is open is located at [#16](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/16)
