@@ -34,7 +34,7 @@ The repo content is divided into several [`Pages`](/pages) for better structurin
 
 ---
 
-<h3 align = "center">Don't forget to ⭐ this repo<h3>
+<h3 align="center">Don't forget to ⭐ this repo<h3>
 
 
 
