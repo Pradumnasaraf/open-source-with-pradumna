@@ -5,7 +5,7 @@
 3. If you see the tab near the Pull request or Issues or if the link above worked and want to start a discussion, tap the "New Discussion" icon.
 4. Select the **CATERGORY** of your discussion.
    ![image](https://user-images.githubusercontent.com/84712013/169663148-c967bb82-0816-4689-94db-56ae05b58666.png)
-5. Add title and description of the discussion you want to start.
+5. Add a title and description of the discussion you want to start.
    ![image](https://user-images.githubusercontent.com/84712013/169663162-447b0bc6-0178-4e72-adbe-8c9e5333fc6a.png)
 6. Tap "**Start Discussion"** button to open your discussion..
 
