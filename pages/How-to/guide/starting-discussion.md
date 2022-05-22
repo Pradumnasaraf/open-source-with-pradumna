@@ -7,7 +7,7 @@
    ![image](https://user-images.githubusercontent.com/84712013/169663148-c967bb82-0816-4689-94db-56ae05b58666.png)
 5. Add a title and description of the discussion you want to start.
    ![image](https://user-images.githubusercontent.com/84712013/169663162-447b0bc6-0178-4e72-adbe-8c9e5333fc6a.png)
-6. Tap "**Start Discussion"** button to open your discussion..
+6. Tap the "**Start Discussion"** button to open your discussion...
 
    ![image](https://user-images.githubusercontent.com/84712013/169655611-ad180328-ae36-4418-bb2e-acdab4126e74.png)
 
