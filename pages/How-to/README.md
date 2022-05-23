@@ -1,22 +1,24 @@
 <div align="center">
 <h3>Step by step guilde to perform the activites like "Raising an PR", "Clonning a repo", etc.</h3>
-<p>Each topic/guide has its own separate Markdown file [] with detailed explanation including <b>Text, Photo, Video, Etc</b></p>
+<p>Each topic/guide has its own separate Markdown file with detailed explanation which contanins <b>text, screenshot, screen recording, GIF,</b> Etc</p>
 </div>
   
 <br>
 
-|Activities| Procedure |
-|---|--|
-|![Raising an Issue](https://user-images.githubusercontent.com/51878265/168460126-9873831f-72a8-4239-8788-9ae91e00752b.png)|[`PROCESS`](guide/rasing-issue.md)|
-|![Creating a PR](https://user-images.githubusercontent.com/51878265/168460125-9bf25668-dbe8-43bd-abc9-a4a08fd16986.png)|[`PROCESS`](guide/creating-pr.md)|
-|![Adding sponsor](https://user-images.githubusercontent.com/51878265/168460168-0ca34fac-f57f-4e2a-ae9a-aa612248adb2.png)| [`PROCESS`](guide/adding-sponsor.md)|
-|![discussion](https://user-images.githubusercontent.com/51878265/168459202-9f5908ee-10b7-4e3a-8736-f1b789504546.png)| [`PROCESS`](guide/starting-discussion.md)|
-|![linking an Issue to PR](https://user-images.githubusercontent.com/51878265/168459199-48b1535f-64b6-4620-a7eb-b568417cc9b2.png)|[`PROCESS`](guide/linking-issue-with-pr.md)|
-|![Reviewing a PR](https://user-images.githubusercontent.com/51878265/168460124-eb63d0dd-482b-4a88-b413-7f5a6ab16107.png)|[`PROCESS`](guide/reviewing-pr.md)|
-|![Cloning a repo](https://user-images.githubusercontent.com/51878265/168459197-34162762-6713-4dcd-afc7-507401862a5d.png)|[`PROCESS`](guide/adding-issue-template.md)|
-|![Adding Issue templates](https://user-images.githubusercontent.com/51878265/168459196-0446b6c7-c5cf-4a1b-9861-bfd09cf09190.png)|[`PROCESS`](guide/adding-issue-template.md)|
-|![Adding PR template](https://user-images.githubusercontent.com/51878265/168459195-33767b18-c797-47cc-ad80-94c79ea3b242.png)|[`PROCESS`](guide/adding-pr-template.md)|
-|![Assigning an Issue](https://user-images.githubusercontent.com/51878265/168459193-0f7b246b-eb1b-41bb-8537-11909d1752a5.png)|[`PROCESS`](guide/assigning-issue.md)|
+|#|Activities| Click to Learn |
+|:--:|:---:|:--:|
+|**0**|![Raising an Issue](https://user-images.githubusercontent.com/51878265/169852403-b93d1002-596f-452c-bbd5-199a3fcd41b2.png)|[![btn](https://user-images.githubusercontent.com/51878265/169855093-fcb5dc91-bf22-4bf3-99f5-d3c972bca19f.png)](guide/rasing-issue.md)|
+|**1**|![Creating a PR](https://user-images.githubusercontent.com/51878265/169852535-2b1a2c78-3e67-4b1a-9289-0728449e9c22.png)|[![btn](https://user-images.githubusercontent.com/51878265/169855093-fcb5dc91-bf22-4bf3-99f5-d3c972bca19f.png)](guide/creating-pr.md)|
+|**2**|![Adding sponsor](https://user-images.githubusercontent.com/51878265/169852640-f9e11484-aacf-4ba2-b5d8-413a0df0377d.png)|[![btn](https://user-images.githubusercontent.com/51878265/169855093-fcb5dc91-bf22-4bf3-99f5-d3c972bca19f.png)](guide/adding-sponsor.md)|
+|**3**|![discussion](https://user-images.githubusercontent.com/51878265/169856151-441be993-6a7d-490b-a24e-cd35a7996e33.png)|[![btn](https://user-images.githubusercontent.com/51878265/169855093-fcb5dc91-bf22-4bf3-99f5-d3c972bca19f.png)](guide/starting-discussion.md)|
+|**4**|![link an Issue to PR](https://user-images.githubusercontent.com/51878265/169856340-869b313e-149c-4d8d-9289-4f455cd106a4.png)|[![btn](https://user-images.githubusercontent.com/51878265/169855093-fcb5dc91-bf22-4bf3-99f5-d3c972bca19f.png)](guide/linking-issue-with-pr.md)|
+|**5**|![Review a PR](https://user-images.githubusercontent.com/51878265/169856416-cb7594f5-2046-4ec8-a7e6-bc004c0aa261.png)|[![btn](https://user-images.githubusercontent.com/51878265/169855093-fcb5dc91-bf22-4bf3-99f5-d3c972bca19f.png)](guide/reviewing-pr.md)|
+|**6**|![Clone a repo](https://user-images.githubusercontent.com/51878265/169856500-cd553626-7ffc-4376-920d-f52aaf98efdc.png)|[![btn](https://user-images.githubusercontent.com/51878265/169855093-fcb5dc91-bf22-4bf3-99f5-d3c972bca19f.png)](guide/adding-issue-template.md)|
+|**7**|![Add Issue templates](https://user-images.githubusercontent.com/51878265/169856587-06204a57-2d75-4b0e-aa23-9c87440eefdd.png)|[![btn](https://user-images.githubusercontent.com/51878265/169855093-fcb5dc91-bf22-4bf3-99f5-d3c972bca19f.png)](guide/adding-issue-template.md)|
+|**8**|![Add PR template](https://user-images.githubusercontent.com/51878265/169856675-1d6a68e7-599b-4b2f-b99f-d6b59db9c80b.png)|[![btn](https://user-images.githubusercontent.com/51878265/169855093-fcb5dc91-bf22-4bf3-99f5-d3c972bca19f.png)](guide/adding-pr-template.md)|
+|**9**|![Assign an Issue](https://user-images.githubusercontent.com/51878265/169856762-eeb5ce9c-cd38-4fce-8aa9-3ce0dfc40e1f.png)|[![btn](https://user-images.githubusercontent.com/51878265/169855093-fcb5dc91-bf22-4bf3-99f5-d3c972bca19f.png)](guide/assigning-issue.md)|
+||||
 
 
-
+<br>
+<h3 align = "center">Don't forget to ⭐ this repo<h3>
