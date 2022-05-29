@@ -2,7 +2,7 @@
 
 To raise an issue, go to the repository you would like to raise an issue on using the link - `https://github.com/{repo-owner}/{repo-name}/issues`
 
-1. When you are on your repository of choice, you should be able to see various icons. Don't worry if you don't know what each icon does, simply look for the **Issues Icon** which is located next to the **Code Icon**. Note that this is not always the case as some repositories have the `Issues diabled` letting you know that they do not accept issues being raised or simply have another alternative to how they accept users to raise issues in their repositories such as **Jira**. 
+1. When you are on your repository of choice, you should be able to see various icons. Don't worry if you don't know what each icon does, simply look for the **Issues Icon** which is located next to the **Code Icon**. Note that this is not always the case as some repositories have the `Issues disabled` letting you know that they do not accept issues being raised or simply have another alternative to how they accept users to raise issues in their repositories such as **Jira**. 
 
 ![issue-1](https://user-images.githubusercontent.com/74776297/170885953-c59f21bc-61a2-4000-9fcc-bdd350daa3d1.png)
 
