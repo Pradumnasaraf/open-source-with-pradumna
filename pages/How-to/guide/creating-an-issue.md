@@ -11,7 +11,7 @@ To raise an issue, go to the repository you would like to raise an issue on usin
 <img alt="issue dialogue box" src="/readme-images/issue2.png" />
 
   + Title: this is where you add your title and it should match the accepted GitHub standards of creating a title by letting the maintainer and other contributors know what the issue you are raising is all about just by reading the title.
-  + Main body: this is where you write what the issue is about. Expand your title and explaining it in detail. Provide screenshots, videos or links to help the maintainer and other contributors know exactly what the issue is about. You can also preview what you have written and make necessary changes to it.
+  + Main body: this is where you write what the issue is about. Expand your title and explaining it in detail. Provide screenshots, videos or links to help the maintainer and other contributors know exactly what the issue is about. You can also preview what you have written and make necessary changes to it. 
   + Submit new issue button: once you are satisfied with your title and main body, you can submit your issue by clicking the green **submit new issue** button at the bottom of the dialogue box.
   <img alt="submit new issue" src="/readme-images/issue3.png" />
 
