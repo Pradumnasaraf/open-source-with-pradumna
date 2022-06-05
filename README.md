@@ -32,11 +32,10 @@ For Eg: There is a separate page for Resources and Bootcamp.
 |![Resources](https://user-images.githubusercontent.com/51878265/168463644-8a9630b9-778f-4464-a361-0122ff952801.png)| Other Resources like Video, Blog and images, to learn Open Source, Git, and Github |[`pages/Resources`](/pages/Resources.md) |  
 |![Beginner](https://user-images.githubusercontent.com/51878265/168463641-4fb842ca-d94b-4083-be63-31933539f546.png)| Contains repo link for Beginner friendly projects |[`pages/Beginners`](/pages/Beginners.md) |                       
 |![Regular Content](https://user-images.githubusercontent.com/51878265/168463643-3a172c6c-156b-4ab2-94f6-c6c5335d0e46.png)|Informational content, that I and other community people post.|[`pages/Regular`](/pages/Regular.md) | 
-
+|![FAQ](https://user-images.githubusercontent.com/51878265/172033273-7985c8c8-152d-455c-92a7-3cda87b6178c.png)| Commonly asked questions related to Open Source, Git, and GitHub.|[`pages/FAQ`](/pages/Faq.md) | 
 
 ---
-
-<h3 align = "center">Don't forget to ⭐ this repo<h3>
-
-
-
+<div align="center">
+    <h3>Don't forget to ⭐ this repo</h3>
+    <h5>Building with the CommUNITY for the CommUNITY ❤️</h5>
+</div>
