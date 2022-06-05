@@ -23,4 +23,4 @@
 |**Day 15** - (15-04-2022)|<img src="https://user-images.githubusercontent.com/51878265/163569718-29be183b-8a5a-41f5-ac91-63fe31e1803b.png" height="300">| [`Twitter`](https://twitter.com/pradumna_saraf/status/1514869357650022402?s=20&t=-oOTgWAHPyU-qx9GOHABNg) | [`Blog`](https://blog.pradumnasaraf.co/open-source-programs)|
 | | | | |
 
-<h3 align="center"><b>Don't forget to star ⭐ this repo</b></h3>
+<h4 align="center">Don't forget to ⭐ this <a href="https://github.com/Pradumnasaraf/open-source-with-pradumna">repo</a></h4>

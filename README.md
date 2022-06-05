@@ -1,9 +1,6 @@
-
 <p align="center"><img src="https://user-images.githubusercontent.com/51878265/167289706-c7efc126-7e9e-4eb8-9472-b288785cb7bc.png"></p>
 
 <h3 align="center"><b>"Building the repo you need to get started with Open Source"</b></h3>
-
-<br>
 
 ## Repo Navigation
 

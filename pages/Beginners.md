@@ -7,4 +7,4 @@ Beginnner friendly projects
 |**3**)|![awesome profile](https://user-images.githubusercontent.com/51878265/168512334-b48b2030-a084-48d2-b891-e4632af15fb3.png) |**English, Basic JSON**|[`EddieHubCommunity/awesome-github-profiles`](https://github.com/EddieHubCommunity/awesome-github-profiles)
 |**4)**|![LinkFree](https://user-images.githubusercontent.com/51878265/168512653-ddfb7543-e54c-4ccf-a04f-3419295c199a.png)|**English, Basic JSON**|[`EddieHubCommunity/LinkFree`](https://github.com/EddieHubCommunity/LinkFree)
 
-<h3 align="center"><b>Don't forget to star ⭐ this repo</b></h3>
+<h4 align="center">Don't forget to ⭐ this <a href="https://github.com/Pradumnasaraf/open-source-with-pradumna">repo</a></h4>

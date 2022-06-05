@@ -17,4 +17,4 @@
 |**IMAGE/GRAPHIC**| | | |
 | | | | |
 
-<h3 align="center"><b>Don't forget to star ⭐ this repo</b></h3>
+<h4 align="center">Don't forget to ⭐ this <a href="https://github.com/Pradumnasaraf/open-source-with-pradumna">repo</a></h4>
