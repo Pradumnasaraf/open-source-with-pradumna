@@ -6,7 +6,7 @@
 
 This repo contains **resources and materials** to learn and get yourself started with **Open Source, Git, and GitHub**.
 
-The repo content is divided into several [`Pages`](/pages) for better structuring, easy navigation and making the learning easy. 
+The repo content is divided into several `Pages` for better structuring, easy navigation and making the learning easy. 
 
 For Eg: There is a separate page for Resources and Bootcamp. 
 
