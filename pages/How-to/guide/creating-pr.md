@@ -63,8 +63,3 @@ After filling them in it would give you appropriate message and displays two lin
 Open it up in your new browser, give your pull request a proper name and some description about it,tag some issues in case it resolves any of them.
 And you have successfully created your pull request 🥳 🥳!!!!
 
-
-
-
-
-
