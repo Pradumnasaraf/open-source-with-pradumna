@@ -26,7 +26,6 @@ Now let's cover how to create a pull request via the github UI
 
 ![image](https://user-images.githubusercontent.com/75060398/172181128-305dfde6-2c58-419f-b0a1-6ccc60fd9863.png)
 
-
 4) Give it a necessary name for th commits you've done, add in some description if required. Here comes the most important step ,  by default you find the "commit directly to the main branch" being selected, change the option to the below one of creating a pull request. Why creating a pull request instead of directly commiting to the code because of various security reasons and the changes made by you wouldn't directly get merged into the main branch, they would be done after being accepted by the reviewer.By selecting the second option a separate branch is created for you, which you could name it on your own or use the generated one. After selecting on commit changes button, you would be directed to the pull request page which looks similar to this one
 
 
