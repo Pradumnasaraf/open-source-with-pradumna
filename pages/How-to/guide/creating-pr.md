@@ -1,8 +1,10 @@
+## What is a pull request ?
+
 A pull request is a method for submitting contributions to a repository, with some extra changes made by the individual. 
 Now there are two ways of creating a pull request, the procedure is mostly the same the only thing that differs is the method. A pull request could either be made with the help of using the github UI or making changes locally on your machine via terminal.
 We are going to cover both of these methods here.
 
-Let's start with general procedure of creating a pull request:-
+### Let's start with general procedure of creating a pull request:-
 1) Creating a fork of the repository is essential. Now what does a fork mean, it is nothing but a clone of the repository where you are free to make your to make respective changes. 
 2) Where to find the fork button
 
@@ -16,7 +18,7 @@ One can find this on the top-right corner of the repository home page.
 
 4) In case you observe this you have succesfully created a fork of the project
 
-Now let's cover how to create a pull request via the github UI
+#### Now let's cover how to create a pull request via the github UI
 
 1) Now since you have already forked the project ,just go to the file you want to edit, you might a notice a pencil icon at the top right corner of the file
 
@@ -37,7 +39,7 @@ Now let's cover how to create a pull request via the github UI
 5) Give your pull request a proper name according to the contributing guidelines and a proper description if necessary and select the create pull request button at the button. You have successfully created you very first pull request!!!!
 
 
-Now let's cover the method of creating a pull request the traditional way
+#### Now let's cover the method of creating a pull request the traditional way
 1) Fork the repository you want to contribute to .
 2) Now select the code button and copy the link present under the https section
 
