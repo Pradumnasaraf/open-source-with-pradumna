@@ -6,7 +6,6 @@ Let's start with general procedure of creating a pull request:-
 1) Creating a fork of the repository is essential. Now what does a fork mean, it is nothing but a clone of the repository where you are free to make your to make respective changes. 
 2) Where to find the fork button
 
-
 ![Screenshot 2022-06-06 at 19-27-47 Updated syntax by gullapalli9482 · Pull Request #17000 · mdn_content](https://user-images.githubusercontent.com/75060398/172175467-0be75024-3e74-42a1-837d-b3e9c1b5f995.png)
 
 One can find this on the top-right corner of the repository home page.
