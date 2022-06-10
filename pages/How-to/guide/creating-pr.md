@@ -24,7 +24,6 @@ Now let's cover how to create a pull request via the github UI
 
 3) Click on it, now one would be able to edit the file. After making the desired changes at the bottom of the screen you might observe an option to commit your changes
 
-
 ![image](https://user-images.githubusercontent.com/75060398/172181128-305dfde6-2c58-419f-b0a1-6ccc60fd9863.png)
 
 
