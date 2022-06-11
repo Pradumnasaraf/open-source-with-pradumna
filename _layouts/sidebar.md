@@ -4,4 +4,4 @@
     - <a href="https://opensource.pradumnasaraf.co/#/pages/Resources">Resources</a>
     - <a href="https://opensource.pradumnasaraf.co/#/pages/Beginners">Beginner Friendly Repo</a>
     - <a href="https://opensource.pradumnasaraf.co/#/pages/Regular">Regular Content</a>
-    - <a href="https://opensource.pradumnasaraf.co/#/pages/Faq">FAQ</a>
+    - <a href="https://opensource.pradumnasaraf.co/#/pages/FAQ">FAQ</a>
