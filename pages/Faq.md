@@ -20,7 +20,7 @@ Yes, you can contribute to documentation, design, translation, etc.
 
 ##### 5) Where to learn Git and GitHub?
 
-You can check out resources in [How to?](How-to/README.md),[Resources](Resources.md), and [Bootcamp](Bootcamp.md) pages for that.
+You can check out resources in [How to?](How-to/README.md), [Resources](Resources.md), and [Bootcamp](Bootcamp.md) pages for that.
 
 <br>
 
