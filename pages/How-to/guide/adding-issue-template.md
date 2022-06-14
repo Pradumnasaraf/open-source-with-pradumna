@@ -13,7 +13,8 @@
 
 <br/>
 
-![issue2](../images/issue2.png)
+![issue2](https://user-images.githubusercontent.com/84350895/173595922-6b83fbee-8437-4fa9-a4cf-b53cf226087a.png)
+
 
 <br/>
 
@@ -23,7 +24,8 @@
 
 
 
-![issue7](../images/issue7.png)
+![issue7](https://user-images.githubusercontent.com/84350895/173595977-0b5b03f7-b2a9-45c9-84e8-5972a27eba6e.png)
+
 
 
 <br/>
@@ -33,7 +35,8 @@
 
 <br/>
 
-![issue1](../images/issue1.png)
+![issue1](https://user-images.githubusercontent.com/84350895/173596009-9e56b9dd-561e-4502-a9d1-7fc5a9e7aa41.png)
+
 
 
 <br/>
@@ -57,7 +60,8 @@
 <br/>
 
 
-![issue3](../images/issue3.png)
+![issue3](https://user-images.githubusercontent.com/84350895/173596055-ee4d6cbe-45fc-45a8-ba29-35ee3acb5516.png)
+
 
 <br/>
 
@@ -70,7 +74,8 @@
 
 <br/>
 
-![issue4](../images/issue4.png)
+![issue4](https://user-images.githubusercontent.com/84350895/173596093-0e6961a0-92f1-4f3c-9261-67e7661d485f.png)
+
 
 
 <br/>
@@ -91,7 +96,8 @@
 <br/>
 
 
-![issue5](../images/issue5.png)
+![issue5](https://user-images.githubusercontent.com/84350895/173596203-4c4a462a-9c9a-4f5e-a39e-1cbfd2cab63a.png)
+
 
 <br/>
 
@@ -106,8 +112,9 @@
 
 <br/>
 
+![issue6](https://user-images.githubusercontent.com/84350895/173596266-9a418a3b-01fd-4195-b106-c37f99a8240e.png)
 
-![issue6](../images/issue6.png)
+
 
 <br/>
 
