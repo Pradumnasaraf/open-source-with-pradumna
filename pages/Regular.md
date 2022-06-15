@@ -3,6 +3,7 @@
 
 |Index|Conetent Preview| Conetnt Source Link| Creator|
 |:--:|:--------------:|:------------------:|:------:|
+|15 June 2022|![img](https://user-images.githubusercontent.com/51878265/173897139-ac893ecd-958f-4a3d-9def-bc124c3f7961.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1536898544371650560?s=20&t=Gph48XM0VKcuYWDabxj8wQ)|**Pradumna Saraf** |
 |13 June 2022|![img](https://user-images.githubusercontent.com/51878265/173896596-99975745-5954-4027-8501-9f6d6b4e1742.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1536176750803177473?s=20&t=Gph48XM0VKcuYWDabxj8wQ)|**Pradumna Saraf** |
 |11 June 2022|![img](https://user-images.githubusercontent.com/51878265/173896111-bb231128-977e-46ed-a7f7-2296b5402a34.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1535449374188240898?s=20&t=Gph48XM0VKcuYWDabxj8wQ)|**Pradumna Saraf** |
 |10 June 2022|![img](https://user-images.githubusercontent.com/51878265/173895797-3c39792a-4033-4c17-a9b9-bbfefce06ee9.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1535086819175538697?s=20&t=Gph48XM0VKcuYWDabxj8wQ)|**Pradumna Saraf** |
@@ -25,8 +26,5 @@
 |27 April 2022|![img](https://user-images.githubusercontent.com/51878265/170491197-db0f923f-aa9c-44f0-be03-5a358e1805c3.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1519165790288764928?s=20&t=qfWVlKY2pxRrRCQk61hzlw)|**Pradumna Saraf** |
 |22 April 2022|![img](https://user-images.githubusercontent.com/51878265/170493604-3659bc6c-153c-4650-b091-60b0a50c96c4.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1517337213817696256?s=20&t=qfWVlKY2pxRrRCQk61hzlw)|**Pradumna Saraf** 
 |22 March 2022|![img](https://user-images.githubusercontent.com/51878265/170494449-baed4833-5856-4765-9b4a-9d0c3c395134.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1506106012394491909?s=20&t=qfWVlKY2pxRrRCQk61hzlw)|**Pradumna Saraf** |
-|22 March 2022|![img](https://user-images.githubusercontent.com/51878265/170494751-bfeec2f5-445d-4022-a33c-a294d15b7d44.png)|[`Post Link`](https://twitter.com/eddiejaoude/status/1506150993528074243?s=20&t=qfWVlKY2pxRrRCQk61hzlw)|**Eddie Jaoude** |
 
-<img width="820" alt="Tweet by Pradumna Saraf 🇺🇦 (7)" src="https://user-images.githubusercontent.com/51878265/173895797-3c39792a-4033-4c17-a9b9-bbfefce06ee9.png">
-<img width="820" alt="Tweet by Pradumna Saraf 🇺🇦 (8)" src="https://user-images.githubusercontent.com/51878265/173896111-bb231128-977e-46ed-a7f7-2296b5402a34.png">
-<img width="820" alt="Tweet by Pradumna Saraf 🇺🇦 (9)" src="https://user-images.githubusercontent.com/51878265/173896596-99975745-5954-4027-8501-9f6d6b4e1742.png">
+<h4 align="center">Don't forget to ⭐ this <a href="https://github.com/Pradumnasaraf/open-source-with-pradumna">repo</a></h4>
