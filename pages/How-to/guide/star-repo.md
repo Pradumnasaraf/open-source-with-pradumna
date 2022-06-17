@@ -8,27 +8,27 @@ Starring a repository makes it easier to find the particular repository or topic
 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/102421475/174066901-960f3796-45f1-4d9c-9094-7ae58518f9e4.jpg">
+  <img src="https://user-images.githubusercontent.com/102421475/174355850-e6a746da-e8ca-4296-9722-d87c7e3d5a92.jpg">
 </div>
-<br>
+<br><br><br>
   
  
-2. Once you have clicked on the **Star** button,it will change from **Star** to **Starred** which indicates that the repository has been starred.
+2. Once you have clicked on the `Star` button,it will change from `Star` to `Starred` which indicates that the repository has been starred.
  
  
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/102421475/174067903-5ca55d47-b370-4633-9791-42916bcfaaa1.jpg">
+  <img src="https://user-images.githubusercontent.com/102421475/174355896-850c6c51-ba8f-4d9a-b860-ef8dbea39dcb.jpg">
 </div>
-<br>
+<br><br><br>
 
 
-3. Once the above steps are done,you can find the starred repository by navigating to the **Stars** page as it is now present in the list of **Starred** repositories.
+3. Once the above steps are done,you can find the starred repository by navigating to the `Stars` page as it is now present in the list of `Starred` repositories.
 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/102421475/174069387-bb85fd9e-8adc-4ed9-8cab-774297cdd446.jpg">
+  <img src="https://user-images.githubusercontent.com/102421475/174355944-10cfd324-45e3-4403-bb7d-d0edd2b2f55b.jpg">
 </div>
-<br>
+<br><br><br>
 
 
  #### Congrats! You have successfully starred a GitHub repository :confetti_ball:
