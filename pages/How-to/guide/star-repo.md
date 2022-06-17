@@ -30,7 +30,8 @@ Starring a repository makes it easier to find the particular repository or topic
 <div align="center">
   <img src="https://user-images.githubusercontent.com/102421475/174355944-10cfd324-45e3-4403-bb7d-d0edd2b2f55b.jpg">
 </div>
-<br><br><br>
+
+<br><br>
 
 
  #### Congrats! You have successfully starred a GitHub repository :confetti_ball:
