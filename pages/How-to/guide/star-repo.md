@@ -10,7 +10,8 @@ Starring a repository makes it easier to find the particular repository or topic
 <div align="center">
   <img src="https://user-images.githubusercontent.com/102421475/174355850-e6a746da-e8ca-4296-9722-d87c7e3d5a92.jpg">
 </div>
-<br><br><br>
+
+<br><br>
   
  
 2. Once you have clicked on the `Star` button,it will change from `Star` to `Starred` which indicates that the repository has been starred.
