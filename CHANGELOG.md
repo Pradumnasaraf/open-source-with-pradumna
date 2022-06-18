@@ -1,4 +1,18 @@
-# 0.1.0 (2022-06-18)
+# [1.0.0](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v0.1.0...v1.0.0) (2022-06-18)
+
+
+### Bug Fixes
+
+* Bumping the `MAJOR` to combine all chnages v1 ([fee23d8](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/fee23d88690828d339601a280b7449c9461d4be7))
+
+
+### BREAKING CHANGES
+
+* combining all the changes and calling it v1
+
+
+
+# [0.1.0](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/511e2491359df3a12589f16de7ed3cdbd9c50242...v0.1.0) (2022-06-18)
 
 
 ### Bug Fixes
@@ -33,5 +47,6 @@
 ### BREAKING CHANGES
 
 * combining all the previous changes by bumping the major.
+
 
 
