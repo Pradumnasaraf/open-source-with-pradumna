@@ -1,3 +1,12 @@
+# [1.1.0](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.0.0...v1.1.0) (2022-06-22)
+
+
+### Features
+
+* Add favicon ([#72](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/72)) ([62272f4](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/62272f42c525c0082f41a5d53907006a21ab9942))
+
+
+
 # [1.0.0](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v0.1.0...v1.0.0) (2022-06-18)
 
 
