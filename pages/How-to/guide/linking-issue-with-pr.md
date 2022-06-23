@@ -1,13 +1,10 @@
 # How to Link and Issue no with a PR ❓
-
 ### Things to keep in 🧠
-
 > You can link up to **ten issues** to each pull request.
 
 > The issue and pull request must be in the **same repository**.
 
 ## Linking an issue with a PR 🔗 
-
 1.  On GitHub.com, navigate to the main page of the repository.
 2.  Now [`Create a pull request`](https://opensource.pradumnasaraf.co/#/pages/How-to/guide/creating-pr) first.
 3.  And then [`Create an issue`](https://opensource.pradumnasaraf.co/#/pages/How-to/guide/rasing-issue).
@@ -34,21 +31,20 @@
 
 ![image-4](https://user-images.githubusercontent.com/57096457/175428731-a243d51d-1930-40aa-90da-ba4e9e49114e.png)
 
-
 ## Results ✅
 
 -> Now Merging the pull request will **automatically close the linked issue.** *(Requires a refresh sometime to reflect changes)*
 
 ![image-5](https://user-images.githubusercontent.com/57096457/175428515-7d02318f-eca1-4f2b-8536-f43835eb46c4.png)
 
-## Important Note 🚨
+## Important Notes 🚨
 
--> Linking an issue with a PR can't be done while creating a pull request.
+-> Linking an issue can also be done while creating pull request by tag the issue number [#17](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/17).
+
+![image-7](https://user-images.githubusercontent.com/57096457/175431559-29cfec54-75b5-40ad-a4a5-75e545e9aaf8.png)
 
 -> Linking process can also be done from issue page. Just click the "**Development**" section and click the Pull request you want to link to issue.
 
 ->  Closing the linked issue will not close the pull request.
-
-![image-5](https://user-images.githubusercontent.com/57096457/175426535-bf2bec42-6716-43e0-9183-79d82f7fd05a.png)
 
 ### Hurrah! Today you step close to your success 🥳 🥳!!!!
