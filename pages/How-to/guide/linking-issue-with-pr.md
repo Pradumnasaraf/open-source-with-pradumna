@@ -15,7 +15,8 @@
 
 ![image-2](https://user-images.githubusercontent.com/57096457/175425148-a4f241c6-e76e-46d7-a47c-a76fcd5b4674.png)
 
-9. Wow, **you're successfully** linked the issue with the pull request! 🎉
+4. Wow, **you successfully** linked the issue with the pull request! 🎉
+
 
 ![image-3](https://user-images.githubusercontent.com/57096457/175425160-2863d43d-ace3-41e7-bd8f-8b6e59723b42.png)
 
