@@ -10,7 +10,8 @@
 
 ![image-1](https://user-images.githubusercontent.com/57096457/175424944-f4e98c43-d3b6-497b-911c-45bf5d3eb574.png)
 
-8. Click the issue you want to **link to the pull request**.
+3. Click the issue you want to **link to the pull request**.
+
 
 ![image-2](https://user-images.githubusercontent.com/57096457/175425148-a4f241c6-e76e-46d7-a47c-a76fcd5b4674.png)
 
