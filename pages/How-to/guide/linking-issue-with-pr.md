@@ -5,9 +5,7 @@
 > The issue and pull request must be in the **same repository**.
 
 ## Linking an issue with a PR 🔗 
-1. On GitHub.com, navigate to the main page of the repository.
-2. Under your repository name, click **Pull requests**.
-3. In the list of pull requests, click the pull request that you'd like to link to an issue.
+1. Open the PR in which you want to link the issue. ( Note: If you are a contributor you can only link an issue to your PR. Only maintainers can do with any PR.)
 4. In the *right sidebar*, in the "**Development**" section click ⚙️.
 
 ![image-1](https://user-images.githubusercontent.com/57096457/175424944-f4e98c43-d3b6-497b-911c-45bf5d3eb574.png)
