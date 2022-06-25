@@ -2,11 +2,11 @@
 
 Creating a PR template makes it easy to clarify what the proposed changes will do and receive actionable feedback from your team. Having a custom template facilitates clear communication between all team members and ensures that everyone is on the same page.
 
-You can create a PULL_REQUEST_TEMPLATE/ subdirectory in any of the supported folders to contain multiple pull request templates, and use the template query parameter to specify the template that will fill the pull request body.
+You can create a `PULL_REQUEST_TEMPLATE/ subdirectory` in any of the supported folders to contain multiple pull request templates, and use the template query parameter to specify the template that will fill the pull request body.
 
 ### Steps to successfully create a PR Template : 
 #### There are two steps ways in which you can create a PR Template:
-1. To store your file in a hidden directory, name the pull request template .github/pull_request_template.md:
+1. To store your file in a hidden directory, name the pull request template `.github/pull_request_template.md`:
 
      <div align="center">
       <img src="https://user-images.githubusercontent.com/78820926/172212505-5eb9d121-3dcc-4ef2-87dd-06cdcc9e6396.png" />
@@ -17,7 +17,7 @@ You can create a PULL_REQUEST_TEMPLATE/ subdirectory in any of the supported fol
      </div>
      </br>
 
-2. After creating the pull_request_template.md file you have to write the body of the new file, add your pull request template. This could include:
+2. After creating the `pull_request_template.md` file you have to write the body of the new file, add your pull request template. This could include:
      a. A reference to a related issue in your repository.
      b. A description of the changes proposed in the pull request.
      c. Mention the person or team responsible for reviewing proposed changes.
