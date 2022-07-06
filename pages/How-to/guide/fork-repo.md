@@ -15,8 +15,8 @@ Step 1: Fork the repository by clicking the fork button which is on top right of
 
 
 
-Step 2: Make modifications to the repository.
-- The changes made are actually made in your local repository but not in the original repository.
+Removed step 2
+
 
 
 Step 3: Create a PR to the repo owner to pull changes(or merge your changes) into the original   repo.
