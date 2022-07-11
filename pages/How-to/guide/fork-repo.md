@@ -7,7 +7,6 @@ First log into your github account and after finding the repo you want to copy o
 
 ![Clipboard(5)](https://user-images.githubusercontent.com/71596539/177612821-dd1e8cef-9c02-4318-a103-2807ecba83ac.jpg)
 
-
 ### Step 2:
 After clicking the Fork section, you will be seeing the following page.
 
