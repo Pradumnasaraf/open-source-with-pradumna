@@ -16,7 +16,6 @@ After clicking the Fork section, you will be seeing the following page.
 - By default the repository name is same as their parent name. 
 - You can change the name of repository, if you want to customize it.
 
-
 ### Step 4:
 - Click on the create fork(green) button to fork the repository.
 
