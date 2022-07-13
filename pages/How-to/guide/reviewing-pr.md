@@ -1,3 +1,5 @@
+## Note : You need not be a maintainer or a project admin to review a PR 🚀
+
 # How to review a PR ?
 
 Reviews allow collaborators to comment on the changes proposed in pull requests, approve the changes, or request further changes before the pull request is merged. Repository administrators or maintainers can require that all pull requests are approved before being merged.
