@@ -1,4 +1,4 @@
-Beginnner friendly projects
+Beginner friendly projects
 
 |No.|Project Social Preview|Skill Required| Link to the project|
 |:--:|:--:|:--:|:---:|
