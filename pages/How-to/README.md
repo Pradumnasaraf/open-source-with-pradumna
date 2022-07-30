@@ -18,9 +18,14 @@
 |**8**|![Add Issue templates](https://user-images.githubusercontent.com/51878265/169856587-06204a57-2d75-4b0e-aa23-9c87440eefdd.png)|[![btn](https://user-images.githubusercontent.com/51878265/170811882-a83b7439-07cc-4786-8516-45a4cd8d0e83.png)](guide/adding-issue-template.md)|
 |**9**|![Add PR template](https://user-images.githubusercontent.com/51878265/169856675-1d6a68e7-599b-4b2f-b99f-d6b59db9c80b.png)|[![btn](https://user-images.githubusercontent.com/51878265/170811882-a83b7439-07cc-4786-8516-45a4cd8d0e83.png)](guide/adding-pr-template.md)|
 |**10**|![Assign an Issue](https://user-images.githubusercontent.com/51878265/169856762-eeb5ce9c-cd38-4fce-8aa9-3ce0dfc40e1f.png)|[![btn](https://user-images.githubusercontent.com/51878265/170811882-a83b7439-07cc-4786-8516-45a4cd8d0e83.png)](guide/assigning-issue.md)|
-|**11**|![Fork a Repo](https://user-images.githubusercontent.com/51878265/173872686-2ca10b45-e59f-4185-aa92-ef4ad1cbe62e.png)|[![btn](https://user-images.githubusercontent.com/51878265/170811882-a83b7439-07cc-4786-8516-45a4cd8d0e83.png)](guide/fork-repo.md)|
-|**12**|![star a Repo](https://user-images.githubusercontent.com/51878265/173872700-1358da9a-fc3a-4572-90d3-1894b670519e.png)|[![btn](https://user-images.githubusercontent.com/51878265/170811882-a83b7439-07cc-4786-8516-45a4cd8d0e83.png)](guide/star-repo.md)|
+|**11**|![Fork a Repo](https://user-images.githubusercontent.com/101465555/181934334-bb0835a2-4213-4c3f-849e-2d36bb0df04c.png)|[![btn](https://user-images.githubusercontent.com/51878265/170811882-a83b7439-07cc-4786-8516-45a4cd8d0e83.png)](guide/fork-repo.md)|
+|**12**|![star a Repo](https://user-images.githubusercontent.com/101465555/181934604-5f5eb441-304c-40fe-8f8d-4180a91721a0.png)|[![btn](https://user-images.githubusercontent.com/51878265/170811882-a83b7439-07cc-4786-8516-45a4cd8d0e83.png)](guide/star-repo.md)|
 ||||
+
+
+
+
+
 
 
 <br>
