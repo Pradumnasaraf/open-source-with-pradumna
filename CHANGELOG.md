@@ -1,3 +1,12 @@
+## [1.1.1](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.1.0...v1.1.1) (2022-08-01)
+
+
+### Bug Fixes
+
+* Updated typo in `How to` ([#81](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/81)) ([260723a](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/260723a5030b5fdf80ecfba46a349430c7ac8b3c))
+
+
+
 # [1.1.0](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.0.0...v1.1.0) (2022-06-22)
 
 
