@@ -1,4 +1,8 @@
 
+# Adding a sponsor button to your repository
+
+
+
 ## What is GitHub Sponsor?
 The mission of GitHub Sponsors is to provide opportunities to participate in and build on open source. The advent of GitHub Sponsors and other third-party sponsorship models helps our industry take the right steps in making open source careers possible. GitHub Sponsors offers a native solution for individuals and corporations to sponsor open source maintainers and contributors.
 
@@ -60,4 +64,4 @@ Anyone with admin permissions can enable a sponsor button in a repository.
 
 
 
-***HURRAY! CONGRATULATIONS WITH THIS YOU HAVE ADDED A SPONSOR BUTTON TO YOUR PROFILE.***
+**Congrats You have successfully added a Sponsor Button to your Repository !! 🥳🚀**
