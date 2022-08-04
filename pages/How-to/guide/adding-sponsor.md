@@ -36,8 +36,7 @@ Anyone with admin permissions can enable a sponsor button in a repository.
 
 ![image](https://user-images.githubusercontent.com/70484406/181915551-593617d0-e7df-4ebe-9b31-bc50a39c3e55.png)
 
-7. Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is the default branch, you should choose to create a new branch for your commit and then create a pull request. For more information, see ["Create a new pull request"]
-(https://github.com/Pradumnasaraf/open-source-with-pradumna/blob/main/pages/How-to/guide/creating-pr.md)
+7. Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is the default branch, you should choose to create a new branch for your commit and then create a pull request. For more information, see ["Create a new pull request"](https://github.com/Pradumnasaraf/open-source-with-pradumna/blob/main/pages/How-to/guide/creating-pr.md)
 
 ![image](https://user-images.githubusercontent.com/70484406/181916164-634b7e99-2cb4-4346-a0a3-cfa95c3a4d2c.png)
 
