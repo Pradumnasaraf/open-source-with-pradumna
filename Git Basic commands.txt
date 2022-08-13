@@ -1,0 +1,128 @@
+
+                           𝐁𝐀𝐒𝐈𝐂 𝐆𝐈𝐓 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒
+                          _______________________
+
+1. git config --global user.name “[firstname lastname]”
+set a name that is identifiable for credit when review version history
+
+2. git config --global user.email “[valid-email]”
+set an email address that will be associated with each history marker
+
+3. git config --global color.ui auto
+set automatic command line coloring for Git for easy reviewing
+
+4. git init
+initialize an existing directory as a Git repository
+
+5. git clone [url]
+retrieve an entire repository from a hosted location via URL
+
+6. git status
+show modified files in working directory, staged for your next commit
+
+7. git add [file]
+add a file as it looks now to your next commit (stage)
+
+8. git reset [file]
+unstage a file while retaining the changes in working directory
+
+9. git diff
+diff of what is changed but not staged
+
+10. git diff --staged
+diff of what is staged but not yet commited
+
+11. git commit -m “[descriptive message]”
+commit your staged content as a new commit snapshot
+
+12. git init
+initialize an existing directory as a Git repository
+
+13. git clone [url]
+retrieve an entire repository from a hosted location via URL
+
+14. git branch
+list your branches. a * will appear next to the currently active branch
+
+15. git branch [branch-name]
+create a new branch at the current commit
+
+16. git checkout
+switch to another branch and check it out into your working directory
+
+17. git merge [branch]
+merge the specified branch’s history into the current one
+
+18. git log
+show all commits in the current branch’s history
+
+19. git log
+show the commit history for the currently active branch
+
+20. git log branchB..branchA
+show the commits on branchA that are not on branchB
+
+21. git log --follow [file]
+show the commits that changed file, even across renames
+
+22. git diff branchB...branchA
+show the diff of what is in branchA that is not in branchB
+
+23. git show [SHA]
+show any object in Git in human-readable format
+
+24. git remote add [alias] [url]
+add a git URL as an alias
+
+25. git fetch [alias]
+fetch down all the branches from that Git remote
+
+26. git merge [alias]/[branch]
+merge a remote branch into your current branch to bring it up to date
+
+27. git push [alias] [branch]
+Transmit local branch commits to the remote repository branch
+
+28. git pull
+fetch and merge any commits from the tracking remote branch
+
+29. git rm [file]
+delete the file from project and stage the removal for commit
+
+30. git mv [existing-path] [new-path]
+change an existing file path and stage the move
+
+31. git log --stat -M
+show all commit logs with indication of any paths that moved
+
+32. git rebase [branch]
+apply any commits of current branch ahead of specified one
+
+33. git reset --hard [commit]
+clear staging area, rewrite working tree from specified commit
+
+34. git config --global core.excludesfile [file]
+system wide ignore patern for all local repositories
+
+35. git stash
+Save modified and staged changes
+
+36. git stash list
+list stack-order of stashed file changes
+
+37. git stash pop
+write working from top of stash stack
+
+38. git stash drop
+discard the changes from top of stash stack
+
+
+
+
+
+
+
+
+
+
+
