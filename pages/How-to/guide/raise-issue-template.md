@@ -25,7 +25,7 @@
 ![issue7](https://user-images.githubusercontent.com/84350895/173595977-0b5b03f7-b2a9-45c9-84e8-5972a27eba6e.png)
 <br>
 
--> When you click on `New Issue` , you will get a list of 4 types of issues.
+-> When you click on 'New Issue', you are prompted with 4 types of issues.
 
 <br>
 
@@ -41,9 +41,10 @@
 
 <br>
 
--> If you find any bug in the repository feel free to click on `Get Started` and you will get a template in which you will get a template in which you will write a crisp title of the bug and then in the description, ellaborate the bug.
+-> If you find any bug in the repository, feel free to click on 'Get Started' and you will get a template in which you write a crisp/short title of the bug.
+In the 'Description' section, please elaborate the details of the bug you encountered.
 <br>
--> Try to add some screenshots of the bug so that it will be easy for the maintainer to understand and then react.
+-> In the 'Screenshots' section, please add some screenshots of the bug to make it easy for the maintainer to understand and make necessary changes.
 
 <br>
 
