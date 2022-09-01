@@ -25,7 +25,7 @@
 ![issue7](https://user-images.githubusercontent.com/84350895/173595977-0b5b03f7-b2a9-45c9-84e8-5972a27eba6e.png)
 <br>
 
--> When you click on `New Issue` , you will get a list of 4 types of issues.
+-> When you click on `New Issue`, you are prompted with 4 types of issues -
 
 <br>
 
@@ -41,9 +41,11 @@
 
 <br>
 
--> If you find any bug in the repository feel free to click on `Get Started` and you will get a template in which you will get a template in which you will write a crisp title of the bug and then in the description, ellaborate the bug.
+-> If you find any bug in the repository, feel free to click on `Get Started` and you will get a template in which you write a crisp/short title of the bug.
 <br>
--> Try to add some screenshots of the bug so that it will be easy for the maintainer to understand and then react.
+-> In the `Description` section, please elaborate the details of the bug you encountered.
+<br>
+-> In the `Screenshots` section, please add some screenshots of the bug to make it easier for the maintainer to understand & make necessary changes.
 
 <br>
 
@@ -55,8 +57,11 @@
 
 <br>
 
--> If you encounter any error in the documentation then go ahead with this issue and you will be redirected to a similar window.
-
+-> If you find any issue in the documentation, please click on `Get started` and you will get a template in which you write a crisp/short title of the issue.
+<br>
+-> In the `Description` section, please elaborate the details of the question/issue along with link to the same. Also include what you tried & what didn't work.
+<br>
+-> In the `Screenshots` section, please add some screenshots of the issue to make it easier for the maintainer to understand & make necessary changes.
 <br>
 
 ![issue4](https://user-images.githubusercontent.com/84350895/173596093-0e6961a0-92f1-4f3c-9261-67e7661d485f.png)
@@ -67,8 +72,13 @@
 
 <br>
 
--> Adding new features is the building block of an open-source project.
--> Do you have a new feature to add! Then go ahead and click on the documentation type of issue.
+-> Adding new features is the building block of an Open-source project.
+<br>
+-> Do you have a new feature to add? Feel free to click on `Get Started` and you will get a template in which you write a crisp/short title of the Feature Request.
+<br>
+-> In the `Description` section, please describe the enhancement you propose, also include what you tried & what worked.
+<br>
+-> In the `Screenshots` section, please add some screenshots if applicable.
 
 
 <br>
