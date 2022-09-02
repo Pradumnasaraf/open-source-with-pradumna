@@ -1,5 +1,5 @@
 ## What is a pull request ?
-
+ 
 A pull request is a method for submitting contributions to a repository, with some extra changes made by the individual. 
 Now there are two ways of creating a pull request, the procedure is mostly the same the only thing that differs is the method. A pull request could either be made with the help of using the github UI or making changes locally on your machine via terminal.
 We are going to cover both of these methods here.
@@ -24,25 +24,18 @@ One can find this on the top-right corner of the repository home page.
 
 ![image](https://user-images.githubusercontent.com/75060398/172180663-0fdfe56d-02d9-422c-9528-6f2c74302eb5.png)
 
-3) Click on it, now one would be able to edit the file. After making the desired changes at the bottom of the screen you might observe an option to commit your changes
+2) Click on it, now one would be able to edit the file. After making the desired changes at the bottom of the screen you might observe an option to commit your changes
 
 ![image](https://user-images.githubusercontent.com/75060398/172181128-305dfde6-2c58-419f-b0a1-6ccc60fd9863.png)
 
-4) Give it a necessary name for the commits you've done, add in some description if required. 
-<br>
-Here comes the most important step ,  by default you find the "commit directly to the main branch" being selected, change the option to the `Create a new branch for this commit and start a pull request`. 
-<br>
-Why commit changes to a new branch instead of directly commiting to the code ? 
-<br>
+3) Give it a necessary name for the commits you've done, add in some description if required. Here comes the most important step , by default you find the "commit directly to the main branch" being selected, change the option to the `Create a new branch for this commit and start a pull request`. 
+**Why commit changes to a new branch instead of directly commiting to the code?**
 Because of various security reasons and the changes made by you wouldn't directly get merged into the main branch, they would be done after being accepted by the reviewer.
 By selecting the 2nd option a separate branch is created for you, which you can name or use the auto-generated one. After clicking on commit changes button, you would be directed to the pull request page which looks similar to the one below -
 
-
 ![image](https://user-images.githubusercontent.com/75060398/172183076-1dafe09d-6196-42b4-8557-adffcdf88e65.png)
 
-
-
-5) Give your pull request a proper name according to the contributing guidelines and a proper description if necessary and select the create pull request button at the bottom. You have successfully created you very first pull request!
+4) Give your pull request a proper name according to the contributing guidelines and a proper description if necessary and select the create pull request button at the bottom. You have successfully created your very first pull request!
 
 
 #### Now let's cover the method of creating a pull request the traditional way
