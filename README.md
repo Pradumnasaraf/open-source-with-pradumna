@@ -16,7 +16,7 @@ For Eg: There is a separate page for Resources and Bootcamp.
 
 <br>
 
-> **Follow [`@Pradumna_saraf`](https://twitter.com/pradumna_saraf) on Twitter to learn more about it.**
+> **Follow [@Pradumna_saraf](https://twitter.com/pradumna_saraf) on Twitter to learn more about it.**
 
 <br>
 
