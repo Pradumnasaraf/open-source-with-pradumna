@@ -34,5 +34,5 @@ For Eg: There is a separate page for Resources and Bootcamp.
 ---
 <div align="center">
     <h3>Don't forget to ⭐ this repo</h3>
-    <h5>Building with the CommUNITY for the CommUNITY ❤️</h5>
+    <h5>Building with the COMMUNITY for the COMMUNITY ❤️</h5>
 </div>
