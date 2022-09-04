@@ -1,3 +1,12 @@
+# [1.2.0](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.1.1...v1.2.0) (2022-09-04)
+
+
+### Features
+
+* change the branding and color scheme ([#90](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/90)) ([b05fb23](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/b05fb232da03eecf41ba11fb498bbe7421c1b355)), closes [#c9e265](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/c9e265) [#303030](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/303030)
+
+
+
 ## [1.1.1](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.1.0...v1.1.1) (2022-08-01)
 
 
