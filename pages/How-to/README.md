@@ -19,7 +19,7 @@
 |**9**|![Add PR template](https://user-images.githubusercontent.com/51878265/188309276-e1ceddc7-d510-4cdb-8863-696b38210e4f.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/adding-pr-template.md)|
 |**10**|![Assign an Issue](https://user-images.githubusercontent.com/51878265/188309269-3369b50a-f0f9-43be-bec1-1f23c9eb6149.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/assigning-issue.md)|
 |**11**|![Fork a Repo](https://user-images.githubusercontent.com/51878265/188309267-fb2e4161-e910-40cf-b9f6-99068ad75211.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/fork-repo.md)|
-|**122**|![star a Repo](https://user-images.githubusercontent.com/51878265/188309275-bcdb9062-662c-4aaa-809f-366019696019.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/star-repo.md)|
+|**12**|![star a Repo](https://user-images.githubusercontent.com/51878265/188309275-bcdb9062-662c-4aaa-809f-366019696019.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/star-repo.md)|
 |**13**|![alt-text](https://user-images.githubusercontent.com/51878265/188317787-0a10a050-e7a6-4519-9dc5-64f360ece3e5.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/delete-repo.md)|
 |**14**|![alt-text](https://user-images.githubusercontent.com/51878265/188317788-609caefe-4f7a-4101-a051-1a12d2723fbb.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/social-preview.md)|
 |**15**|![alt-text](https://user-images.githubusercontent.com/51878265/188317790-9e1a365a-e51b-4d01-9529-91405d08eacb.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/github-pages.md)|
@@ -30,7 +30,7 @@
 |**20**|![alt-text](https://user-images.githubusercontent.com/51878265/188317800-e91ddbe0-a079-48f0-bc63-1f69113691cf.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/create-project-board.md)|
 |**21**|![alt-text](https://user-images.githubusercontent.com/51878265/188317801-3ec66402-fcf2-4818-95a7-1d489caf65ae.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/archive-repo.md)|
 |**22**|![alt-text](https://user-images.githubusercontent.com/51878265/188317804-4e45d315-e6f5-4338-90c7-70a2e5f09a28.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/repo-private-public.md)|
-|||
+||||
 
 <br>
 <h4 align="center">Don't forget to ⭐ this <a href="https://github.com/Pradumnasaraf/open-source-with-pradumna">repo</a></h4>
