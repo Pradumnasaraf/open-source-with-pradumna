@@ -27,13 +27,3 @@
 <br>
 <h4 align="center">Don't forget to ⭐ this <a href="https://github.com/Pradumnasaraf/open-source-with-pradumna">repo</a></h4>
 
-![23](https://user-images.githubusercontent.com/51878265/188317785-7edb7a69-36af-481a-b373-c1718f5fd23f.png)
-![22](https://user-images.githubusercontent.com/51878265/188317787-0a10a050-e7a6-4519-9dc5-64f360ece3e5.png)
-![21](https://user-images.githubusercontent.com/51878265/188317788-609caefe-4f7a-4101-a051-1a12d2723fbb.png)
-![20](https://user-images.githubusercontent.com/51878265/188317790-9e1a365a-e51b-4d01-9529-91405d08eacb.png)
-![19](https://user-images.githubusercontent.com/51878265/188317793-4fe89294-ee13-4dc5-9cb2-529851c23e1d.png)
-![18](https://user-images.githubusercontent.com/51878265/188317795-60a1284b-0590-4a7f-bd6e-f299b688c7c1.png)
-![17](https://user-images.githubusercontent.com/51878265/188317799-c7ecba97-8b53-42cd-8db1-9287fb3c7817.png)
-![16](https://user-images.githubusercontent.com/51878265/188317800-e91ddbe0-a079-48f0-bc63-1f69113691cf.png)
-![15](https://user-images.githubusercontent.com/51878265/188317801-3ec66402-fcf2-4818-95a7-1d489caf65ae.png)
-![14](https://user-images.githubusercontent.com/51878265/188317804-4e45d315-e6f5-4338-90c7-70a2e5f09a28.png)
