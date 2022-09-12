@@ -66,8 +66,9 @@ You can preview below the before and after of your repository using and not usin
   <img src="https://user-images.githubusercontent.com/93916892/188543037-6dd9813c-b147-4aa3-ab53-d7c08716c5d6.png" />
 </div>
 
-### Video for the complete demo
+### Complete demo (GIF)
 
+![188549721-fd4fdc17-f669-4091-8f3](https://user-images.githubusercontent.com/51878265/189722745-0d0ffeda-9a8a-4103-8321-1e197a404a0f.gif)
 
 ## 💡 Tips:
 - It is recommended that you should use JPG, PNG and GIF as a file format for your images. 
