@@ -2,17 +2,15 @@
 
 When we have an open-source project, it is important to share it so people can be interested in it and be able to contribute to it. Images on social media have a great impact because they can make your content stand out from the others.
 
-Before you add a social preview, the repository links expand to provide the repository's basic information and the owner's avatar. Like in the example below:
+Before you add a social preview, the repository links expand to provide the repository's basic information and the owner's avatar. Like in the left picture below:
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/93916892/188522879-596581e2-e915-42f1-a1bd-3dc5dce10f19.png" />
+  <img src="https://user-images.githubusercontent.com/93916892/188522879-596581e2-e915-42f1-a1bd-3dc5dce10f19.png" width="500px"/>
+  <img src="https://user-images.githubusercontent.com/93916892/188523195-92dc39a9-1926-4812-91ce-5c670ddad0d5.png" width="500px"/>
 </div>
 </br>
 
-Including a picture in your repository can make it easier for others to find your project on different social media sites. For example, how this repository provided a good social preview of its repository. 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/93916892/188523195-92dc39a9-1926-4812-91ce-5c670ddad0d5.png" />
-</div>
+Including a picture in your repository can make it easier for others to find your project on different social media sites. For example, how the right image provided a good social preview of its repository. 
 
 ## Steps on how to add a social preview to your repository
 
