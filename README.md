@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/51878265/188307599-6a9d310b-7607-4090-bedc-b1236b8552d9.png"></p>
+<p align="center"><img alt="Open Source Pradumna Saraf Banner" src="https://user-images.githubusercontent.com/51878265/189920612-88c0ebba-1de1-46aa-a221-14c0b301c9b4.png"></p>
 
 <h3 align="center"><b>"Building the repo you need to get started with Open Source"</b></h3>
 
@@ -10,7 +10,7 @@ The repo content is divided into several `Pages` for better structuring, easy na
 
 For Eg: There is a separate page for Resources and Bootcamp. 
 
-<h3 align="center">This repo is hosted at <a href="https://opensource.pradumnasaraf.co/">opensource.pradumnasaraf.co</a></h3>
+<h3 align="center">This repo is hosted at <a href="https://oswp.study/">oswp.study</a></h3>
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Pradumnasaraf/open-source-with-pradumna)
 
