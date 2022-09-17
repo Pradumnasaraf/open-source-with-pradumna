@@ -18,19 +18,25 @@ In order to contribute to a repo, you have to first set it up on your local syst
 2. After creating a fork, now you can clone the project using the green `Code` Button. When you click the button several options will appear from where you have to select **HTTPS** and then copy the https link.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/76985777/171351815-7b259240-2db7-4760-b81e-d9c4718842cc.png" />
+  <img src="https://user-images.githubusercontent.com/63872951/190841661-6c55139d-5fc1-4d6f-bf3b-ef3f682f4a22.png" />
 </div>
 </br>
 
 
-3. Now after copying the link, lets go to your local terminal(Preferably Git Bash terminal). For creating a local copy of the repo, you have to write a Git command in your terminal(Make sure that you have git installed in your system already) which is :
+3. Now after copying the link, lets go to your local terminal (preferably **Git Bash** terminal). For creating a local copy of the repo, you have to write a Git command in your terminal(Make sure that you have git installed in your system already) which is :
 ```
 git clone <repo URL>
 ```
- Replace the repo URL with the link you just copied from your forked repository and hit enter.
+ - Right click and select the `Paste` option to paste the copied link on your Git Bash terminal as shown below.
  
  <div align="center">
-  <img src="https://user-images.githubusercontent.com/76985777/171353054-965aa35e-2ea5-4ead-bde3-16d16a725577.png" />
+  <img src="https://user-images.githubusercontent.com/63872951/190841782-821d30cd-be53-44da-8bff-b14b356639cd.png" />
+ </div>
+ </br>
+
+ 
+ <div align="center">
+  <img src="https://user-images.githubusercontent.com/63872951/190841699-9ee1c5f1-adf5-4b0c-82c5-d994ca0ff8c6.png" />
 </div>
 
 4. You will now see a folder created by the same name as of your forked repository where all the code and files will be available
