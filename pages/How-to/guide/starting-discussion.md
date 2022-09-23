@@ -1,4 +1,5 @@
 ## Starting Discussion in GitHub
+
 1. Go to the **repo** in which you want to start a discussion in or use this link - `https://github.com/{repo-owner}/{repo-name}/discussions`.
 2. Beside the **Pull request or Issues icon**, below the repo name, if you see the "Discussions" tap means, that the repo accepts discussions, if you don't see the tab, the repo doesn't accept discussions... If you used the link mentioned above, and it says 404 Page Not Found, means that the repo doesn't accept discussions.
    ![image](https://user-images.githubusercontent.com/84712013/169663113-99dd25e7-c3ad-4556-94a4-39d8f8caa992.png)
@@ -11,7 +12,4 @@
 
    ![image](https://user-images.githubusercontent.com/84712013/169655611-ad180328-ae36-4418-bb2e-acdab4126e74.png)
 
-
 **For a more detailed explanation, please visit [GitHub Docs](https://docs.github.com/en/discussions/quickstart#Creating-a-new-discusssion)**.
-
-
