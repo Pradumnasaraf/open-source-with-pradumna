@@ -1,3 +1,12 @@
+## [1.2.2](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.2.1...v1.2.2) (2022-09-25)
+
+
+### Bug Fixes
+
+* Added alt attribute to images in `bootcamp.md`  ([#114](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/114)) ([9f187b6](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/9f187b6195962a58bfc0a60534821949288fc6fb))
+
+
+
 ## [1.2.1](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.2.0...v1.2.1) (2022-09-18)
 
 
@@ -31,20 +40,6 @@
 ### Features
 
 * Add favicon ([#72](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/72)) ([62272f4](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/62272f42c525c0082f41a5d53907006a21ab9942))
-
-
-
-# [1.0.0](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v0.1.0...v1.0.0) (2022-06-18)
-
-
-### Bug Fixes
-
-* Bumping the `MAJOR` to combine all chnages v1 ([fee23d8](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/fee23d88690828d339601a280b7449c9461d4be7))
-
-
-### BREAKING CHANGES
-
-* combining all the changes and calling it v1
 
 
 
