@@ -1,3 +1,14 @@
+### 👨‍💻 Prerequisite
+
+#### Documention 
+
+- [Git](https://git-scm.com/) 
+- [Markdown](https://www.markdownguide.org/basic-syntax/)
+
+#### Code
+
+- [HTML](https://www.w3schools.com/html/)
+
 ### Beginners
 The file [Beginners.md](/pages/Beginners.md) has a bunch of repo's which BEGINNERS can contribute too without any dificulty and learn the strings of GitHub.
 
