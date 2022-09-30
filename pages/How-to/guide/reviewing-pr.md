@@ -118,7 +118,9 @@ Once you are done with reviewing all the files in a Pull Request, you have to su
 
 <br>
 
-![final comment](https://user-images.githubusercontent.com/90816300/178494829-6e01611c-dba0-4f66-bb88-fd992f8b935c.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/90816300/178494829-6e01611c-dba0-4f66-bb88-fd992f8b935c.png">
+</p>
 
 <br>
 
@@ -126,7 +128,9 @@ Once you are done with reviewing all the files in a Pull Request, you have to su
 
 <br>
 
-![type](https://user-images.githubusercontent.com/90816300/178493882-c564938e-e77c-4d5e-8482-ad5f353331a9.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/90816300/178493882-c564938e-e77c-4d5e-8482-ad5f353331a9.png">
+</p>
 
 <br>
 
@@ -144,9 +148,10 @@ Once you are done with reviewing all the files in a Pull Request, you have to su
 
 <br>
 
-![final](https://user-images.githubusercontent.com/90816300/178493939-9965bcc9-7fa3-4db9-97e3-3369b46070da.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90816300/178493939-9965bcc9-7fa3-4db9-97e3-3369b46070da.png">
+</p>
 
 <br>
 
 ## Congrats you have successfully reviewed a Pull Request !! 🥳🚀
-
