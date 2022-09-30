@@ -1,12 +1,11 @@
 # Creating and assigning an issue from a repository</h1>
 
-There are also a number of ways to creating an issue from a GitHub repository. However, it could also use the following steps.</p>
-There are multiple ways to create an issue on a GitHub repository, but for beginners,  the best way to create an issue is by creating an issue from the repository on the GitHub website.
+There are multiple ways to create an issue on a GitHub repository, but for beginners, the best way to create an issue is by creating an issue from the repository on the GitHub website.
 
 #### Step 1
 
 Navigate to the main repository. Underneath the repository title, 
-you will find a tab called "Issues". Click on that to reach the list of issues for the repository
+you will find a tab called "Issues". Click on that to reach the list of issues for the repository.
 
 ![step 1 OS](https://user-images.githubusercontent.com/42191857/193368251-a3f40b55-af9a-49bf-a172-f01a28e3c5d4.jpg)
 ##### *(Issues tab window below)*
@@ -14,17 +13,14 @@ you will find a tab called "Issues". Click on that to reach the list of issues f
 
 #### Step 2
 
-When the new issue page opens, you can write a title describing the issue. You could also attach files to show these issues clearly.</p>
 Click on the "New Issue" button. When the new blank issue creation section pops up, add a title pertaining to what your issue is.
 
 NOTE: For some projects, there would be specific issue templates that pop up, such as a "Bug report" or "Feature request". If such an option exists, you can click on the kind of issue you have, or you can create a blank issue if the type of issue you have isn't available.
 
-**Assigning** someone to work on the identified issue can be done using the assignees button on the left panel. </p>
 ![step 2 OS](https://user-images.githubusercontent.com/42191857/193366587-654b4299-3fd0-4f85-a41d-d6bb22b9cf97.jpg)
 
 #### Step 3
 
-You can have up to 10 people assigned on an issue.
 In the comment section, write about your issue and what needs to be solved. Add necessary files to show the issues more clearly.
 
 ![step 3 OS](https://user-images.githubusercontent.com/42191857/193366979-3acf63cb-0da8-4c68-ac08-0eaa77074d3d.jpg)
@@ -37,7 +33,7 @@ If needed, we can assign someone to work on the identified issue by clicking the
 
 #### Step 5
 
-If needed, we can assign labels to the issue. For example, an issue talking about a bug in the code could use a "Bug" label, and an issue that is beginner friendly can use a "good first issue" label. This would help your issue attract specific people, such as first-time contributors or bug solvers.
+If needed, we can assign labels to the issue. For example, an issue talking about a bug in the code could use a "Bug" label, and an issue that is beginner friendly can use a "good first issue" label. This would help the issue attract people who would be a good fit for solving the issue, such as first-time contributors or bug solvers.
 
 ![step 5 OS](https://user-images.githubusercontent.com/42191857/193368094-e9933b16-5e0e-45d6-a7b1-206011a02c18.jpg)
 
