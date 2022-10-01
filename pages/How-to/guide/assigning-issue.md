@@ -20,4 +20,4 @@ When the new issue page opens, you can write a title describing the issue. You c
 
 You can have up to 10 people assigned on an issue.
 
-![Alt](https://user-images.githubusercontent.com/51878265/182855357-1a9607f3-2ba7-4c15-9a7d-8991ae7ccec1.jpg "Button not working and label BUG")
+![Button not working and label BUG](https://user-images.githubusercontent.com/51878265/182855357-1a9607f3-2ba7-4c15-9a7d-8991ae7ccec1.jpg)
