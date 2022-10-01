@@ -9,11 +9,11 @@ You can create a `PULL_REQUEST_TEMPLATE/ subdirectory` in any of the supported f
 1. To store your file in a hidden directory, name the pull request template `.github/pull_request_template.md`:
 
      <div align="center">
-      <img src="https://user-images.githubusercontent.com/78820926/172212505-5eb9d121-3dcc-4ef2-87dd-06cdcc9e6396.png" />
+      <img src="https://user-images.githubusercontent.com/78820926/172212505-5eb9d121-3dcc-4ef2-87dd-06cdcc9e6396.png" alt="Creating a new file using the 'Create new file' option under the 'Add file' button" />
      </div>
      </br>
       <div align="center">
-      <img src="https://user-images.githubusercontent.com/78820926/172214830-3f858f92-da44-41ec-82cb-1325ec3d7742.png" />
+      <img src="https://user-images.githubusercontent.com/78820926/172214830-3f858f92-da44-41ec-82cb-1325ec3d7742.png" alt="Naming the file as 'pull_request_template.md'" />
      </div>
      </br>
 
@@ -24,7 +24,7 @@ You can create a `PULL_REQUEST_TEMPLATE/ subdirectory` in any of the supported f
      
      Here is the demo of a template:
      <div align="center">
-      <img src="https://user-images.githubusercontent.com/78820926/172215461-89812839-a0fd-4614-b5f5-10242dd78328.png" />
+      <img src="https://user-images.githubusercontent.com/78820926/172215461-89812839-a0fd-4614-b5f5-10242dd78328.png" alt="Demo template for 'pull_request_template.md" />
      </div>
      </br>
      
