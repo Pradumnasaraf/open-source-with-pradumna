@@ -16,7 +16,7 @@ When the new issue page opens, you can write a title describing the issue. You c
 
 **Assigning** someone to work on the identified issue can be done using the assignees button on the left panel. </p>
 
-![Alt](https://user-images.githubusercontent.com/51878265/182855166-b181b10c-285b-42ba-8789-7f519b4cb75d.jpg "use the assignees button on the left panel")
+![use the assignees button on the left panel](https://user-images.githubusercontent.com/51878265/182855166-b181b10c-285b-42ba-8789-7f519b4cb75d.jpg )
 
 You can have up to 10 people assigned on an issue.
 
