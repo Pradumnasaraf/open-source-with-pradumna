@@ -1,7 +1,7 @@
 
 > **CREDIT** - Following images are built with [`Poet.so`](https://poet.so/). 
 
-|Index|Conetent Preview| Conetnt Source Link| Creator|
+|Index|Content Preview| Content Source Link| Creator|
 |:--:|:--------------:|:------------------:|:------:|
 |20 June 2022|![gitexplorer](https://user-images.githubusercontent.com/51878265/174623765-77ca5235-5659-485f-a048-b8cea6407c46.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1538710489118679040?s=20&t=I352QVbiZaIaoNNmTZcSVw)|**Pradumna Saraf** |
 |18 June 2022|![community insights](https://user-images.githubusercontent.com/51878265/174620981-b524dca6-3da2-4bba-8c87-98143b2f128c.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1537985719641092098?s=20&t=I352QVbiZaIaoNNmTZcSVw)|**Pradumna Saraf** |
