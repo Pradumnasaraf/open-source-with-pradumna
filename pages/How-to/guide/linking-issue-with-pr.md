@@ -9,7 +9,7 @@
 2. In the *right sidebar*, in the "**Development**" section click ⚙️.
 
 
-<div style="text-align: center;">
+<div align='center'>
 
 ![image-1](https://user-images.githubusercontent.com/57096457/175424944-f4e98c43-d3b6-497b-911c-45bf5d3eb574.png)
 
@@ -18,7 +18,7 @@
 3. Click the issue you want to **link to the pull request**.
 
 
-<div style='text-align: center;'>
+<div align='center'>
 
    ![image-2](https://user-images.githubusercontent.com/57096457/175425148-a4f241c6-e76e-46d7-a47c-a76fcd5b4674.png)
 
@@ -48,7 +48,7 @@
 
 -> Linking an issue can also be done while creating pull request by tag the issue number [#17](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/17).
  
-<div style='text-align: center;'>
+<div align='center'>
 
    ![image-7](https://user-images.githubusercontent.com/57096457/175431559-29cfec54-75b5-40ad-a4a5-75e545e9aaf8.png)
    
