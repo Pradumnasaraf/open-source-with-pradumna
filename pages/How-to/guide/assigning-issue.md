@@ -12,7 +12,7 @@ Navigate to the main repository and just below the repository name, click on iss
 
 When the new issue page opens, you can write a title describing the issue. You could also attach files to show these issues clearly.</p>
 
-![Alt](https://user-images.githubusercontent.com/51878265/182855026-302ed451-71ca-4ce8-907c-bead73a7ac63.jpg "Write a title and attach files")
+![ Write a title and attach files](https://user-images.githubusercontent.com/51878265/182855026-302ed451-71ca-4ce8-907c-bead73a7ac63.jpg)
 
 **Assigning** someone to work on the identified issue can be done using the assignees button on the left panel. </p>
 
