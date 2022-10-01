@@ -6,7 +6,7 @@ There are also a number of ways to creating an issue from a GitHub repository. H
 
 Navigate to the main repository and just below the repository name, click on issues and create new issues. </p>
 
-![Alt](https://user-images.githubusercontent.com/51878265/182854796-fdc8131b-a2ee-4522-a684-8f89e647a2b4.jpg "Click on Issues and then on New Issue")
+![Click on Issues and then on New Issue](https://user-images.githubusercontent.com/51878265/182854796-fdc8131b-a2ee-4522-a684-8f89e647a2b4.jpg)
 
 #### Step 2 
 
