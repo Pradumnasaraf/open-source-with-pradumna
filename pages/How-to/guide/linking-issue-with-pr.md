@@ -11,7 +11,7 @@
 
 <div align='center'>
 
-![image-1](https://user-images.githubusercontent.com/57096457/175424944-f4e98c43-d3b6-497b-911c-45bf5d3eb574.png)
+![Development-section](https://user-images.githubusercontent.com/57096457/175424944-f4e98c43-d3b6-497b-911c-45bf5d3eb574.png)
 
 </div>
 
@@ -20,14 +20,14 @@
 
 <div align='center'>
 
-   ![image-2](https://user-images.githubusercontent.com/57096457/175425148-a4f241c6-e76e-46d7-a47c-a76fcd5b4674.png)
+   ![Select-issue-to-link](https://user-images.githubusercontent.com/57096457/175425148-a4f241c6-e76e-46d7-a47c-a76fcd5b4674.png)
 
 </div>
 
 4. Wow, **you successfully** linked the issue with the pull request! 🎉
 
 
-![image-3](https://user-images.githubusercontent.com/57096457/175425160-2863d43d-ace3-41e7-bd8f-8b6e59723b42.png)
+![Successful-linking](https://user-images.githubusercontent.com/57096457/175425160-2863d43d-ace3-41e7-bd8f-8b6e59723b42.png)
 
 ## Observations 🔍
 -> Issue is linked to the pull request shows as **Open** 🟢.
@@ -36,13 +36,13 @@
 
 -> Issue number shows in the pull request commit with `#[issue-number]`.
 
-![image-4](https://user-images.githubusercontent.com/57096457/175428731-a243d51d-1930-40aa-90da-ba4e9e49114e.png)
+![Observation-post-linking](https://user-images.githubusercontent.com/57096457/175428731-a243d51d-1930-40aa-90da-ba4e9e49114e.png)
 
 ## Results ✅
 
 -> Now Merging the pull request will **automatically close the linked issue.** *(Requires a refresh sometime to reflect changes)*
 
-![image-5](https://user-images.githubusercontent.com/57096457/175428515-7d02318f-eca1-4f2b-8536-f43835eb46c4.png)
+![Post-merging-results](https://user-images.githubusercontent.com/57096457/175428515-7d02318f-eca1-4f2b-8536-f43835eb46c4.png)
 
 ## Important Notes 🚨
 
@@ -50,7 +50,7 @@
  
 <div align='center'>
 
-   ![image-7](https://user-images.githubusercontent.com/57096457/175431559-29cfec54-75b5-40ad-a4a5-75e545e9aaf8.png)
+   ![Alternate-way](https://user-images.githubusercontent.com/57096457/175431559-29cfec54-75b5-40ad-a4a5-75e545e9aaf8.png)
    
 </div>
 
