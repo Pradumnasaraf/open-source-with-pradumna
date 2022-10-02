@@ -1,5 +1,9 @@
 name: Send a Tweet 🐦
-on: [push]
+
+on:
+  release:
+    types: [published]
+
 jobs:
   Tweet:
     runs-on: ubuntu-latest
