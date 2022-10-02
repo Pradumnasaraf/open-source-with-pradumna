@@ -1,0 +1,15 @@
+name: Send a Tweet 🐦
+on:
+  release:
+    types: [published]
+jobs:
+  Tweet:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ethomson/send-tweet-action@v1
+        with:
+          status: "👋 Hey, this is an automated message 🤖 to let you know that there has been an update on therepository. You can check it out https://github.com/Pradumnasaraf/open-source-with-pradumna"
+          consumer-key: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
+          consumer-secret: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
+          access-token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
