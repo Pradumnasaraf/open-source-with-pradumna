@@ -4,11 +4,11 @@ Commonly asked questions related to Open Source, Git, and GitHub.
 
 ##### 1) What is Git?
 
-Git is a version control system that lets you manage and keep track of your source code history. 
+Git is a version control system that lets you manage and keep track of your source code history.
 
 ##### 2) What is GitHub?
 
-GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. 
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ##### 3) What are the prerequisites to step into Open Source?
 
@@ -20,7 +20,7 @@ Yes, you can contribute to documentation, design, translation, etc.
 
 ##### 5) Where to learn Git and GitHub?
 
-You can check out resources in [How to?](How-to/README.md),[Resources](Resources.md), and [Bootcamp](Bootcamp.md) pages for that.
+You can check out resources in [How to?](How-to/README.md), [Resources](Resources.md), and [Bootcamp](Bootcamp.md) pages for that.
 
 <br>
 
