@@ -14,7 +14,8 @@
 |![Github](https://user-images.githubusercontent.com/51878265/165011193-e6157e76-1d6f-45c2-9c95-594d9f9c6163.jpg)  |Git Cheatsheet |[`Link`](https://github.com/Pradumnasaraf/open-source-with-pradumna/files/8551274/GitHub.Git.Cheatsheet.pdf)| GitHub |
 |![Github](https://user-images.githubusercontent.com/51878265/165011196-8243c7bd-ee80-4546-81d1-946c66bd72d8.jpg)  |Markdown Cheatsheet |[`Link`](https://github.com/Pradumnasaraf/open-source-with-pradumna/files/8551272/GitHub.Markdown.Cheatsheet.pdf)| GitHub|
 |**BLOG/ARTICLE**| | | |
-| | | | |
+|![Aman Chopra](https://drive.google.com/file/d/18ciii0SYofIOth0VE8-xZlfLESt7hIkE/view?usp=sharing)|Git and GitHub — Beginner’s Guide : A Hands-on Approach |[`Link`](https://medium.com/nerd-for-tech/git-and-github-beginners-guide-a-hands-on-approach-e97e9489a017)| Aman Chopra |
+|**IMAGE/GRAPHIC**| | | |
 |**IMAGE/GRAPHIC**| | | |
 | | | | |
 
