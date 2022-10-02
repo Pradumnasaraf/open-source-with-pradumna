@@ -15,7 +15,7 @@ jobs:
         id: changelog
         uses: TriPSs/conventional-changelog-action@v3.7.1
         with:
-          github-token: ${{ secrets.PA_TOEKN }}
+          github-token: ${{ secrets.PA_TOKEN }}
           version-file: './releases.json'
 
       - name: create release
