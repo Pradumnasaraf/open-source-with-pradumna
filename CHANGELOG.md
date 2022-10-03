@@ -1,3 +1,12 @@
+# [1.3.0](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.2.2...v1.3.0) (2022-10-02)
+
+
+### Features
+
+* refactor Actions, file names and fix broken links ([#170](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/170)) ([bb90cc4](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/bb90cc41a6879ec23319e3b1678e62641e9dc175))
+
+
+
 ## [1.2.2](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.2.1...v1.2.2) (2022-09-25)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * Updated typo in `How to` ([#81](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/81)) ([260723a](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/260723a5030b5fdf80ecfba46a349430c7ac8b3c))
-
-
-
-# [1.1.0](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.0.0...v1.1.0) (2022-06-22)
-
-
-### Features
-
-* Add favicon ([#72](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/72)) ([62272f4](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/62272f42c525c0082f41a5d53907006a21ab9942))
 
 
 
