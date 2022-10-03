@@ -3,7 +3,6 @@
 
 |Index|Content Preview| Content Source Link| Creator|
 |:--:|:--------------:|:------------------:|:------:|
-
 |30 June 2022|![GitHub courses](https://user-images.githubusercontent.com/76167753/193499509-a181cbc4-ac61-4634-bb6f-6c268d51312b.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1542334356005568512?s=20&t=--HE77Ij9qQ9w5pTxtu8_Q)|**Pradumna Saraf** |
 |28 June 2022|![use Traffic Option](https://user-images.githubusercontent.com/76167753/193499386-f75be81f-e654-4302-808e-012ac5d0ca22.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1541610035188535297?s=20&t=--HE77Ij9qQ9w5pTxtu8_Q)|**Pradumna Saraf** |
 |23 June 2022|![Turn off unused features](https://user-images.githubusercontent.com/76167753/193499257-7aec79da-5c74-42a2-8a1e-88ff642ca4bf.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1539797831292272640?s=20&t=--HE77Ij9qQ9w5pTxtu8_Q)|**Pradumna Saraf** |
