@@ -5,7 +5,7 @@ An issue template is a template with prepopulated information about how an issue
 
 ### Step 1 :
 
-You should have a repository. If you don't, go on <u><a href = "https://oswp.study/#/pages/How-to/guide/repo-private-public">this</a></u> page to know how to create a repository.
+You should have a repository.
 
 ### Step 2 :
 
