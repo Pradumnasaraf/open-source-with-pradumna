@@ -37,3 +37,13 @@
 11. Navigate to your main repository and you can see your release on the left side panel
 
 ![Img8](https://raw.githubusercontent.com/hasnainmakada-99/Releases-Demo/main/.github/images/OS%20Images/Img8.png)
+
+**🥳 You created and published the release successfully!**
+
+# Why create releases?
+
+- Releases are deployable software iterations you can package and make available for a wider audience to download and use. 
+
+- Releases are based on Git tags, which mark a specific point in your repository's history.
+
+**[Official Dcos](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)**
