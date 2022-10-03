@@ -4,3 +4,13 @@ tasks:
 ports:
   - port: 8000
     onOpen: open-browser
+    
+github:
+  prebuilds:
+    master: true
+    addBadge: true
+    addCheck: true
+    branches: true
+    addComment: false
+    pullRequests: true
+    pullRequestsFromForks: true

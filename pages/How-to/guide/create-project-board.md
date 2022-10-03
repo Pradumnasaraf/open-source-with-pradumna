@@ -1,8 +1,8 @@
-# Create a Project Board
+## Project Board
 
 A project board is a collection of issues and pull requests associated with a repository. You can use project boards to create customized workflows tailored to your needs. For example, you can create a project board for bug triage, for onboarding new members to your team, or for tracking customer support requests.
 
-## Creating a Project Board
+##$ Creating a Project Board
 
 1. Navigate to the repository where you want to create a project board. Click on the **Projects** tab on the top of the page. If you don't see the **Projects** tab, click on the **Code** tab and then click on the **Projects** tab.
 
