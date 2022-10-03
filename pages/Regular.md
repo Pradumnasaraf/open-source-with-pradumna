@@ -3,6 +3,11 @@
 
 |Index|Content Preview| Content Source Link| Creator|
 |:--:|:--------------:|:------------------:|:------:|
+
+|30 June 2022|![GitHub courses](https://user-images.githubusercontent.com/76167753/193499509-a181cbc4-ac61-4634-bb6f-6c268d51312b.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1542334356005568512?s=20&t=--HE77Ij9qQ9w5pTxtu8_Q)|**Pradumna Saraf** |
+|28 June 2022|![use Traffic Option](https://user-images.githubusercontent.com/76167753/193499386-f75be81f-e654-4302-808e-012ac5d0ca22.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1541610035188535297?s=20&t=--HE77Ij9qQ9w5pTxtu8_Q)|**Pradumna Saraf** |
+|23 June 2022|![Turn off unused features](https://user-images.githubusercontent.com/76167753/193499257-7aec79da-5c74-42a2-8a1e-88ff642ca4bf.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1539797831292272640?s=20&t=--HE77Ij9qQ9w5pTxtu8_Q)|**Pradumna Saraf** |
+|21 June 2022|![image](https://user-images.githubusercontent.com/76167753/193499088-f46ad521-1c7e-4cf5-ba14-b4b55a2815ab.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1539073119410864128?s=20&t=--HE77Ij9qQ9w5pTxtu8_Q)|**Pradumna Saraf** |
 |20 June 2022|![gitexplorer](https://user-images.githubusercontent.com/51878265/174623765-77ca5235-5659-485f-a048-b8cea6407c46.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1538710489118679040?s=20&t=I352QVbiZaIaoNNmTZcSVw)|**Pradumna Saraf** |
 |18 June 2022|![community insights](https://user-images.githubusercontent.com/51878265/174620981-b524dca6-3da2-4bba-8c87-98143b2f128c.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1537985719641092098?s=20&t=I352QVbiZaIaoNNmTZcSVw)|**Pradumna Saraf** |
 |17 June 2022|![locate command](https://user-images.githubusercontent.com/51878265/174620577-4c2e1dad-4a59-4fe2-83da-42b9d3b5cde2.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1537623336330698753?s=20&t=I352QVbiZaIaoNNmTZcSVw)|**Pradumna Saraf** |
