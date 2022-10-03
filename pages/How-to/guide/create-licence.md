@@ -26,7 +26,9 @@ If you are a beginner having any confusion on choosing your license, then see th
 ![image](https://user-images.githubusercontent.com/74497486/193520100-7487fff2-c0ce-4814-8d25-84797cfdc3b1.png)
 
 If you have multiple authors to give credit, you shall refer this [article](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors)
-8. Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is the default branch, you should choose to create a new branch for your commit and then create a pull request. For more information, see ["Creating a new pull request"](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+
+8. Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is the default or main branch, you are advised to create a new branch for your commit and then create a pull request. For more information, see ["Creating a new pull request"](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+
 9. Click "Commit Changes".
 And then... Congratulations on creating a license for your project. 
 
