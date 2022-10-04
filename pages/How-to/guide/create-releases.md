@@ -15,7 +15,6 @@
 ![Img3](https://raw.githubusercontent.com/hasnainmakada-99/Releases-Demo/main/.github/images/OS%20Images/Img3.png)
 
 5. Enter the **Release title**
-
 ![Img4](https://raw.githubusercontent.com/hasnainmakada-99/Releases-Demo/main/.github/images/OS%20Images/Img4.png)
 
 6. Enter the release description for to justify what the release is all about.
