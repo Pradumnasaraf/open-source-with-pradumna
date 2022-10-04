@@ -3,6 +3,7 @@
 
 |Index|Content Preview| Content Source Link| Creator|
 |:--:|:--------------:|:------------------:|:------:|
+|04 Oct 2022|![use triple backticks](https://user-images.githubusercontent.com/76167753/193734255-7163ad79-5bb1-4190-92bd-33000fd2f441.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1577123608526290946?s=20&t=AbUvCXY1WtrE07TEU0wPpA)|**Pradumna Saraf** |
 |01 Oct 2022|![use custom github](https://user-images.githubusercontent.com/76167753/193503409-c73fe79f-95fd-4832-8115-bfd07a8030a8.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1576036649305346051?s=20&t=5zMs10h6Z4CldyGl6fVNuw)|**Pradumna Saraf** |
 |27 Sep 2022|![use -n flag](https://user-images.githubusercontent.com/76167753/193503309-4d5cb411-7116-4fd2-9d5f-b816cb065fa9.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1574586852773871622?s=20&t=5zMs10h6Z4CldyGl6fVNuw)|**Pradumna Saraf** |
 |24 Sep 2022|![keyboard shortcuts](https://user-images.githubusercontent.com/76167753/193503087-ec2126e4-4230-4237-953b-d28609ca7a53.png)|[`Post Link`](https://twitter.com/pradumna_saraf/status/1573500246486827027?s=20&t=5zMs10h6Z4CldyGl6fVNuw)|**Pradumna Saraf** |
