@@ -12,7 +12,7 @@
 |![Eddie Jaoude Open Source](https://kartrausers.s3.amazonaws.com/eddiejaoude/19602644_60a0f266c9746_Social_Media_Banners-v2_Artboard_2.jpg)  |GitHub |[`Link`](https://www.eddiejaoude.io/course-github-profile/)| Eddie Jaoude |
 |**CHEATSHEET**||||
 |![Github](https://user-images.githubusercontent.com/51878265/165011193-e6157e76-1d6f-45c2-9c95-594d9f9c6163.jpg)  |Git Cheatsheet |[`Link`](https://github.com/Pradumnasaraf/open-source-with-pradumna/files/8551274/GitHub.Git.Cheatsheet.pdf)| GitHub |
-|![Git_CheatSheet](https://user-images.githubusercontent.com/83066985/193987646-a0c34137-31de-461f-9ab3-3ed6b23c926e.jpg)|Git Cheatsheet | GitHub |
+|![Git_CheatSheet](https://user-images.githubusercontent.com/83066985/193987646-a0c34137-31de-461f-9ab3-3ed6b23c926e.jpg)|Git Cheatsheet | |DoableDanny |
 |![Github](https://user-images.githubusercontent.com/51878265/165011196-8243c7bd-ee80-4546-81d1-946c66bd72d8.jpg)  |Markdown Cheatsheet |[`Link`](https://github.com/Pradumnasaraf/open-source-with-pradumna/files/8551272/GitHub.Markdown.Cheatsheet.pdf)| GitHub|
 |**BLOG/ARTICLE**| | | |
 | | | | |
