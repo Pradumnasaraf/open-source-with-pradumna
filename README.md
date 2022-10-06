@@ -2,6 +2,13 @@
 
 <h3 align="center"><b>"Building the repo you need to get started with Open Source"</b></h3>
 
+<div align="center">
+    <p>
+	    <a name="stars"><img src="https://img.shields.io/github/stars/Pradumnasaraf/open-source-with-pradumna?style=for-the-badge"></a>
+	    <a name="forks"><img src="https://img.shields.io/github/forks/Pradumnasaraf/open-source-with-pradumna?logoColor=green&style=for-the-badge"></a>
+	    <a name="contributions"><img src="https://img.shields.io/github/contributors/Pradumnasaraf/open-source-with-pradumna?logoColor=green&style=for-the-badge"></a>
+ </p>
+ </div>
 ## Repo Navigation
 
 This repo contains **resources and materials** to learn and get yourself started with **Open Source, Git, and GitHub**.
