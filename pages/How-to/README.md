@@ -1,6 +1,6 @@
 <div align="center">
-<h3>Step by step guilde to perform the activites like "Raising an PR", "Clonning a repo", etc.</h3>
-<p>Each topic/guide has its own separate Markdown file with detailed explanation which contanins <b>text, screenshot, screen recording, GIF,</b> Etc</p>
+<h3>Step by step guide to perform activites like "Raising a PR", "Cloning a repo", etc.</h3>
+<p>Each topic/guide has its own separate Markdown file with detailed explanation which contanins <b>text, screenshot, screen recording, GIF,</b> etc.</p>
 </div>
   
 <br>
