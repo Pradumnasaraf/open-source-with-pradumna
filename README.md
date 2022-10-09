@@ -32,6 +32,11 @@ For Eg: There is a separate page for Resources and Bootcamp.
 |![FAQ](https://user-images.githubusercontent.com/51878265/188307745-5803f82b-4c37-4a90-9f88-ab173e490430.png)| Commonly asked questions related to Open Source, Git and GitHub.|[![Open FAQ](https://user-images.githubusercontent.com/51878265/188310366-7eb5925a-4cbb-4613-94f7-b437cd892d81.png)](/pages/Faq.md)| 
 
 ---
+## Thanks to all Contributors <a name = "contributors"></a>
+
+<a href="https://github.com/Pradumnasaraf/open-source-with-pradumna/graphs/contributors"> 
+<img src="https://contrib.rocks/image?repo=Pradumnasaraf/open-source-with-pradumna" /> 
+</a>
 <div align="center">
     <h3>Don't forget to ⭐ this repo</h3>
     <h5>Building with the COMMUNITY for the COMMUNITY ❤️</h5>
