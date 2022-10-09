@@ -6,7 +6,7 @@ To raise an issue, go to the repository you would like to raise an issue on usin
 
 <div align="center">
   
-  ![issue-1](https://user-images.githubusercontent.com/74776297/170885953-c59f21bc-61a2-4000-9fcc-bdd350daa3d1.png)
+  <img src="https://user-images.githubusercontent.com/74776297/170885953-c59f21bc-61a2-4000-9fcc-bdd350daa3d1.png">
 
 </div>
 
@@ -17,7 +17,7 @@ To raise an issue, go to the repository you would like to raise an issue on usin
 
 <div align='center'>
   
-  ![issue-2](https://user-images.githubusercontent.com/74776297/170885981-295bb520-4aa2-41ba-aff9-6b5a4e9cdfc2.png)
+  <img src="https://user-images.githubusercontent.com/74776297/170885981-295bb520-4aa2-41ba-aff9-6b5a4e9cdfc2.png">
   
 </div>
 
@@ -27,7 +27,7 @@ To raise an issue, go to the repository you would like to raise an issue on usin
   
 <div align='center'>
   
-   ![issue-3](https://user-images.githubusercontent.com/74776297/170885991-da72f328-8482-45c6-a59c-b04f7e6a2c12.png)
+  <img src="https://user-images.githubusercontent.com/74776297/170885991-da72f328-8482-45c6-a59c-b04f7e6a2c12.png">
   
 </div>
 
