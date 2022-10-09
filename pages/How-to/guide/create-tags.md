@@ -18,7 +18,9 @@ Click on `Create a new release` <br> <img width="914" alt="image" src="https://u
 
 ### Step 4
 
-Click on `Choose a tag` to choose a tag and `target:` to choose the branch you are targetting.
+Click on `Choose a tag` to choose a tag and `target:` to choose the branch you are targetting. <br>
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/100528412/194745792-304776c1-1b2a-4214-8b1c-57b8b68d0e0b.png">
+
 
 ### Step 5
 
