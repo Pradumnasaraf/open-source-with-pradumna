@@ -60,7 +60,7 @@ a) In the "Primary email address" group , select your email address through whic
 b) Make sure that "Keep my email addresses private" checkbox is unchecked.
 
  <div align ="center">
- <img width="900" height="250" alt="Screenshot 2022-10-03 at 8 02 52 PM" src="https://i.postimg.cc/j2qzgN1V/Screenshot-2022-10-10-233947.png">
+ <img width="500" height="250" alt="Screenshot 2022-10-03 at 8 02 52 PM" src="https://i.postimg.cc/PJbbfHLj/Screenshot-2022-10-10-233947.png">
  </div>
 
 ### Step 7 :
@@ -80,12 +80,12 @@ After you create your commit, provide the passphrase you set up when you generat
 On the pull request, click on the commits tab to check your commit is signed or not
 
  <div align ="center">
- <img width="600" height="100" alt="Screenshot 2022-10-03 at 8 02 52 PM" src="https://i.postimg.cc/Z5BvYZvy/Screenshot-2022-10-11-001248.png">
+ <img width="600" height="50" alt="Screenshot 2022-10-03 at 8 02 52 PM" src="https://i.postimg.cc/Z5BvYZvy/Screenshot-2022-10-11-001248.png">
  </div>
  Click on "Verified" to know more detailed information about the signature
 
  <div align ="center">
- <img width="800" height="100" alt="Screenshot 2022-10-03 at 8 02 52 PM" src="https://i.postimg.cc/k48y2KVK/Screenshot-2022-10-11-001134.png">
+ <img width="800" height="90" alt="Screenshot 2022-10-03 at 8 02 52 PM" src="https://i.postimg.cc/k48y2KVK/Screenshot-2022-10-11-001134.png">
  </div>
 
 #### You have sucessfully signed your commit.
