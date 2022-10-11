@@ -30,7 +30,6 @@ Click Rename.
 
 [![p4.png](https://i.postimg.cc/q7CXRwZd/p4.png)](https://postimg.cc/5HbFKBVP)
 
-
 #### Hurray, you just renamed your repository 🎉  
 
 
