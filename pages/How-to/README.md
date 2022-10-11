@@ -30,6 +30,7 @@
 |**20**|![alt-text](https://user-images.githubusercontent.com/51878265/188317800-e91ddbe0-a079-48f0-bc63-1f69113691cf.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/create-project-board.md)|
 |**21**|![alt-text](https://user-images.githubusercontent.com/51878265/188317801-3ec66402-fcf2-4818-95a7-1d489caf65ae.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/archive-repo.md)|
 |**22**|![alt-text](https://user-images.githubusercontent.com/51878265/188317804-4e45d315-e6f5-4338-90c7-70a2e5f09a28.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/repo-private-public.md)|
+|**23**|![Renaming a Repository](https://user-images.githubusercontent.com/51878265/194721906-86e2acba-194e-4dcc-8886-17f6b729a4c6.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/rename-repo.md)|
 ||||
 
 <br>
