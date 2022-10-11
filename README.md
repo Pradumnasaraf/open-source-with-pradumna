@@ -22,7 +22,7 @@ For Eg: There is a separate page for Resources and Bootcamp.
 
 #### Table of Pages
 
-|                                                 Section/pages                                                     | Description   |  Page (Link- clickable)          |
+|                                                 Section/Pages                                                     | Description   |  Page (Link- clickable)          |
 |-----------------------------------------------------------------------------------------------------------------|-------------|:---------------------------:|
 |![15-Day Bootcamp](https://user-images.githubusercontent.com/51878265/188307753-9058d1d1-e66b-49a1-a37b-69c47bcce316.png)| It contains 15 days of Twitter threads and blogs that I posted during the Bootcamp. |[![Open 15-Day Bootcamp](https://user-images.githubusercontent.com/51878265/188310366-7eb5925a-4cbb-4613-94f7-b437cd892d81.png)](/pages/Bootcamp.md)|
 |![How to](https://user-images.githubusercontent.com/51878265/188307747-e12e1926-1d07-4ac5-afa7-f21f6f7eb6b1.png)|Contains step by step (Written + Screenshot + Video) on how to create an Issue, fork etc. |[![Open How to](https://user-images.githubusercontent.com/51878265/188310366-7eb5925a-4cbb-4613-94f7-b437cd892d81.png)](/pages/How-to/README.md) |
