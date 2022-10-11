@@ -7,8 +7,6 @@ Whenever you rename a repository, keep in mind certain elements will also be ass
 - Followers
 
 
-------------
-
 ##  Let us look at the steps:
 
 
