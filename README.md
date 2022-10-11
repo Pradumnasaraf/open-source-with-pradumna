@@ -4,9 +4,9 @@
 
 ## Repo Navigation
 
-This repo contains **resources and materials** to learn and get yourself started with **Open Source, Git and GitHub.**.
+This repo contains **resources and materials** to learn and get yourself started with **Open Source, Git, and GitHub.**
 
-The repo content is divided into several `Pages` for better structuring, easy navigation and making the learning easy. 
+The repo content is divided into several `Pages` for better structuring, easy navigation, and making the learning easy. 
 
 For Eg: There is a separate page for Resources and Bootcamp. 
 
@@ -16,7 +16,7 @@ For Eg: There is a separate page for Resources and Bootcamp.
 
 <br>
 
-> **Follow [@Pradumna_saraf](https://twitter.com/pradumna_saraf) on Twitter to learn more about it.**
+> **Follow [Pradumna Saraf](https://twitter.com/pradumna_saraf) on Twitter to learn more about it.**
 
 <br>
 
