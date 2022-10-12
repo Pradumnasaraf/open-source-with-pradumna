@@ -16,13 +16,9 @@
 ![Screenshot 2022-10-08 182142](https://user-images.githubusercontent.com/111558974/194709087-749c2205-e137-4c53-ab79-02f8e7ae5e6a.png)
 
 #### Step 2
-1. Give your repository a nice name :)
 
-2. A good description.
-
-3. Choose the repository visibility. Public or Private
-
-4. And never forget to click on the checkbox saying add a README file.
+- Give your repository a nice name and description. 
+- Choose the repository visibility. It can be Public or Private depending on the use case. Also, it's good to have a README on the project, so check the checkbox.
 
 ![Screenshot 2022-10-08 182304](https://user-images.githubusercontent.com/111558974/194709475-e202c3e1-6314-49b4-b452-243d36f88427.png)
 
