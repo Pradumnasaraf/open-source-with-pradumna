@@ -5,7 +5,7 @@ GitHub Pages is a static site hosting service that **takes HTML, CSS, and JavaSc
 
 ### Step 1
 
-You should have a repository, if you don't go on <u><a href = "https://oswp.study/#/pages/How-to/guide/repo-private-public">this</a></u> page to know how to create a repository.
+You should have a repository, if you don't go on [this](create-repo.md) page to know how to create a repository.
 
 ### Step 2
 
