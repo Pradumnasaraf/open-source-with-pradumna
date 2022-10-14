@@ -32,6 +32,7 @@
 |**22**|![Make a repo private/public](https://user-images.githubusercontent.com/51878265/188317804-4e45d315-e6f5-4338-90c7-70a2e5f09a28.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/repo-private-public.md)|
 |**23**|![Create-a-repo](https://user-images.githubusercontent.com/51878265/195158675-fb525b73-6a88-4143-bb5d-cd51d50f2a7a.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/create-repo.md)|
 |**24**|![Renaming a Repository](https://user-images.githubusercontent.com/51878265/194721906-86e2acba-194e-4dcc-8886-17f6b729a4c6.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/rename-repo.md)|
+|**25**|![Sign-commits](https://user-images.githubusercontent.com/51878265/194722406-73e2a603-c360-48dd-88bb-232abc170e81.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/sign-commits.md)|
 ||||
 
 <br>
