@@ -1,8 +1,8 @@
-# How to review a PR on our local system ?
+## How to review a PR on our local system ?
 
 Review a PR on our local system allow our administrators or maintainers to check on the changes proposed in pull requests in there local system or request further changes before the pull request is merged by checking the working output on there local system.   
   
-# Start Reviewing a PR on our local system.
+## Start Reviewing a PR on our local system.
 
 🔘 Go to the main page of the repository
 
@@ -28,5 +28,5 @@ Review a PR on our local system allow our administrators or maintainers to check
 
 🔘 Now we can Reiview PR by opening it on our local system code editor.
 
-# Congratulation!! You have successfully reviewed a Pull Request on your local system. 🥳🚀
+## Congratulation!! You have successfully reviewed a Pull Request on your local system. 🥳🚀
 
