@@ -34,6 +34,7 @@
 |**24**|![Renaming a Repository](https://user-images.githubusercontent.com/51878265/194721906-86e2acba-194e-4dcc-8886-17f6b729a4c6.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/rename-repo.md)|
 |**25**|![Sign-commits](https://user-images.githubusercontent.com/51878265/194722406-73e2a603-c360-48dd-88bb-232abc170e81.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/sign-commits.md)|
 |**26**|![Create a branch](https://user-images.githubusercontent.com/51878265/195896447-42001878-e09e-4ac2-a79e-203b5cbaeeb4.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/create-branch.md)
+|**27**|![Review a PR on our local system](https://user-images.githubusercontent.com/51878265/198944333-6357ae5e-531b-421e-bc01-4904665da912.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/review-pr-locally.md)|
 ||||
 
 <br>
