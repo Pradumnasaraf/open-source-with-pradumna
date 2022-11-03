@@ -1,3 +1,12 @@
+## [1.4.1](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.4.0...v1.4.1) (2022-11-03)
+
+
+### Bug Fixes
+
+* broken Blog links ([2b09e45](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/2b09e45e15a5179bd3a12ee83663d75bfd6ecf62))
+
+
+
 # [1.4.0](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.3.1...v1.4.0) (2022-10-10)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * Added alt attribute to images in `bootcamp.md`  ([#114](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/114)) ([9f187b6](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/9f187b6195962a58bfc0a60534821949288fc6fb))
-
-
-
-## [1.2.1](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.2.0...v1.2.1) (2022-09-18)
-
-
-### Bug Fixes
-
-* Update alt text in `Beginners.md` ([#111](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/111)) ([0a4ff0a](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/0a4ff0a0654cc526211fda1eab5b600ef571e314))
 
 
 
