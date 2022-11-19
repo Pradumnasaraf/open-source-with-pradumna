@@ -1,0 +1,37 @@
+/* Navbar styling */
+
+.app-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: unset!important;
+    margin-top: 16px!important;
+    margin-right: unset!important;
+}
+
+
+@media screen and (max-width: 480px) {
+    .app-nav {
+        margin-right: 60px!important;
+    }
+}
+
+
+@media only screen and (max-width: 930px) and (min-width: 755px)  {
+    .app-nav {
+        width: calc(100% + 10rem);
+    }  
+}
+
+@media only screen and (max-width: 385px) and (min-width: 306px)  {
+    .app-nav {
+        text-align: center !important;
+    }  
+}
+
+
+/* Main section styling */
+
+.content {
+    padding-top: unset !important;
+}
