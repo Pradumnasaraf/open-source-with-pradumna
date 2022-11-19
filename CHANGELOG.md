@@ -1,3 +1,12 @@
+## [1.4.2](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.4.1...v1.4.2) (2022-11-19)
+
+
+### Bug Fixes
+
+* responsiveness of Navbar ([#233](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/233)) ([4171215](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/4171215cc7395687004153df69ee01cd558f23b8))
+
+
+
 ## [1.4.1](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.4.0...v1.4.1) (2022-11-03)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * refactor Actions, file names and fix broken links ([#170](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/170)) ([bb90cc4](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/bb90cc41a6879ec23319e3b1678e62641e9dc175))
-
-
-
-## [1.2.2](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.2.1...v1.2.2) (2022-09-25)
-
-
-### Bug Fixes
-
-* Added alt attribute to images in `bootcamp.md`  ([#114](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/114)) ([9f187b6](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/9f187b6195962a58bfc0a60534821949288fc6fb))
 
 
 
