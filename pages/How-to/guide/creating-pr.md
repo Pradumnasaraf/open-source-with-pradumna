@@ -10,7 +10,7 @@ We are going to cover both of these methods here.
 
 <div align='center'>
  
-![Top-right-menu](https://user-images.githubusercontent.com/75060398/172175467-0be75024-3e74-42a1-837d-b3e9c1b5f995.png)
+<img src="https://user-images.githubusercontent.com/75060398/172175467-0be75024-3e74-42a1-837d-b3e9c1b5f995.png">
  
 </div>
 
@@ -20,7 +20,7 @@ One can find this on the top-right corner of the repository home page.
 
 <div align='center'>
   
-![Github-handle-with-repo-name](https://user-images.githubusercontent.com/75060398/172176326-f4760b41-910a-409d-bf8b-90cc82e6b7fe.png )
+<img src="https://user-images.githubusercontent.com/75060398/172176326-f4760b41-910a-409d-bf8b-90cc82e6b7fe.png">
 
 </div>
 
@@ -32,7 +32,7 @@ One can find this on the top-right corner of the repository home page.
 
 <div align='center'>
  
-![Pencil-icon](https://user-images.githubusercontent.com/75060398/172180663-0fdfe56d-02d9-422c-9528-6f2c74302eb5.png)
+<img src="https://user-images.githubusercontent.com/75060398/172180663-0fdfe56d-02d9-422c-9528-6f2c74302eb5.png">
 
 </div>
 
@@ -40,7 +40,7 @@ One can find this on the top-right corner of the repository home page.
 
 <div align='center'>
  
-![Commit-message-input](https://user-images.githubusercontent.com/75060398/172181128-305dfde6-2c58-419f-b0a1-6ccc60fd9863.png )
+<img src="https://user-images.githubusercontent.com/75060398/172181128-305dfde6-2c58-419f-b0a1-6ccc60fd9863.png">
 
 </div>
 
@@ -52,7 +52,7 @@ By selecting the 2nd option a separate branch is created for you, which you can 
 
 <div align='center'>
  
-![Create-Pull-Request-Window](https://user-images.githubusercontent.com/75060398/172183076-1dafe09d-6196-42b4-8557-adffcdf88e65.png )
+<img src="https://user-images.githubusercontent.com/75060398/172183076-1dafe09d-6196-42b4-8557-adffcdf88e65.png">
 
 </div>
 
@@ -66,7 +66,7 @@ By selecting the 2nd option a separate branch is created for you, which you can 
 
 <div align='center'>
  
-![Traditional-Method](https://user-images.githubusercontent.com/75060398/172184258-3e6f0b18-20ea-4ada-b8d9-da82cf07affa.png ) 
+<img src="https://user-images.githubusercontent.com/75060398/172184258-3e6f0b18-20ea-4ada-b8d9-da82cf07affa.png">
 
 </div> 
 
