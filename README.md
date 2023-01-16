@@ -20,7 +20,7 @@ For Eg: There is a separate page for Resources and Bootcamp.
 
 <br>
 
-#### Table of Contents:
+#### Table of Pages
 
 |                                                 Section/pages                                                     | Description   |  Page (Link- clickable)          |
 |-----------------------------------------------------------------------------------------------------------------|-------------|:---------------------------:|
