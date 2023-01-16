@@ -9,6 +9,7 @@
 |**VIDEO TUTORIAL**| | | |
 |![Kunal kushwaha Open Source](https://user-images.githubusercontent.com/51878265/167293701-da2e5be4-b8bb-4424-99d8-638b729f86ae.jpg)|Git and GitHub |[`Link`](https://youtu.be/apGV9Kg7ics)| Kunal Kushwaha |
 |![Freecodecamp Open Source](https://user-images.githubusercontent.com/51878265/167293946-b059555d-366b-4890-8f42-23ddb34b20cc.jpg)  |Git and GitHub |[`Link`](https://youtu.be/yzeVMecydCE)| Eddie Jaoude & FreeCodeCamp |
+|![GitHub Repo Mini Bootcamp](https://user-images.githubusercontent.com/51878265/212709507-fc46092d-42aa-43af-ac07-db96172147b5.jpg)  | GitHub |[`Link`](https://youtu.be/BI18N3ZC2Es)| Eddie Jaoude |
 |![Eddie Jaoude Open Source](https://kartrausers.s3.amazonaws.com/eddiejaoude/19602644_60a0f266c9746_Social_Media_Banners-v2_Artboard_2.jpg)  |GitHub |[`Link`](https://www.eddiejaoude.io/course-github-profile/)| Eddie Jaoude |
 |**CHEATSHEET**||||
 |![Github](https://user-images.githubusercontent.com/51878265/165011193-e6157e76-1d6f-45c2-9c95-594d9f9c6163.jpg)  |Git Cheatsheet |[`Link`](https://github.com/Pradumnasaraf/open-source-with-pradumna/files/8551274/GitHub.Git.Cheatsheet.pdf)| GitHub |
@@ -18,5 +19,8 @@
 | | | | |
 |**IMAGE/GRAPHIC**| | | |
 | | | | |
+
+![BI18N3ZC2Es-HD]()
+
 
 <h4 align="center">Don't forget to ⭐ this <a href="https://github.com/Pradumnasaraf/open-source-with-pradumna">repo</a></h4>
