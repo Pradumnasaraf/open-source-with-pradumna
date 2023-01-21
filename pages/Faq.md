@@ -34,6 +34,10 @@ Steps:
 
 - 4) Once you are comfortable with the workflow, you can start contributing to Open Source projects depending on your interest, programming language, topics, etc. I will recommend starting with small projects and then moving on to bigger projects. Also, when you start with a project, first try solving and working on issues with the label `good first issue` and `first timers only`. This is a wonderful way to understand a project better and then move on to other issues. Also, I have written a Blog on [5 ways to find projects in Open Source](https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-open-source) you can check it out.
 
+##### 7) How to find Open Source projects to contribute to?
+
+You can find some projects on the [Begginer Friendly Projects](Beginners.md) page. Also, I have written a Blog on [5 ways to find projects in Open Source](https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-open-source) you can check it out.
+
 <br>
 
 <h4 align="center">Don't forget to ⭐ this <a href="https://github.com/Pradumnasaraf/open-source-with-pradumna">repo</a></h4>
