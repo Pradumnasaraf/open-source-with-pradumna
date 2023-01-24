@@ -28,7 +28,7 @@ Steps:
 
 - 1) Start with learning the basics of **Git** and **GitHub**. You can check out resources in, [Resources](Resources.md), [Bootcamp](Bootcamp.md), and [How to?](How-to/README.md).
 
-- 2) Once you are familiar with the basics, start contributing to beginner-friendly projects to get familiar with the workflow and terminology of Open Source, Git, and GitHub. You can find some projects on the [Begginer Friendly Projects](Beginners.md) page. Also, contributing to your friend's project is a great way to get started.
+- 2) Once you are familiar with the basics, start contributing to beginner-friendly projects to get familiar with the workflow and terminology of Open Source, Git, and GitHub. You can find some projects on the [Beginner Friendly Projects](Beginners.md) page. Also, contributing to your friend's project is a great way to get started.
 
 - 3) Do join a community so that you can get help and guidance from the community members if you get stuck somewhere. I will recommend joining EddieHub Community on [Discord](http://discord.eddiehub.org/).
 
@@ -36,7 +36,7 @@ Steps:
 
 ##### 7) How to find Open Source projects to contribute to?
 
-You can find some projects on the [Begginer Friendly Projects](Beginners.md) page. Also, I have written a Blog on [5 ways to find projects in Open Source](https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-open-source) you can check it out.
+You can find some projects on the [Beginner Friendly Projects](Beginners.md) page. Also, I have written a Blog on [5 ways to find projects in Open Source](https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-open-source) you can check it out.
 
 <br>
 
