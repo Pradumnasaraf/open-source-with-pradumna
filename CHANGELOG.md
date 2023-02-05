@@ -1,3 +1,12 @@
+# [1.6.0](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.5.1...v1.6.0) (2023-02-05)
+
+
+### Features
+
+* Added meta tags for social preview ([e959f14](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/e959f14c8499424861bec304d079351b9ac33237))
+
+
+
 ## [1.5.1](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.5.0...v1.5.1) (2023-01-10)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * broken Blog links ([2b09e45](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/2b09e45e15a5179bd3a12ee83663d75bfd6ecf62))
-
-
-
-# [1.4.0](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.3.1...v1.4.0) (2022-10-10)
-
-
-### Features
-
-* add dark/light theme toggler ([#205](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/205)) ([584fad5](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/584fad57e811de65962d86a6c8a40befe1fcf866))
 
 
 
