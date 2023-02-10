@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Prerequisite
 
-#### Documention 
+#### Documentation 
 
 - [Git](https://git-scm.com/) 
 - [Markdown](https://www.markdownguide.org/basic-syntax/)
