@@ -45,5 +45,5 @@ jobs:
           push: true
           tags: | 
             ghcr.io/pradumnasaraf/oswp:latest
-            ghcr.io/pradumnasaraf/oswp:${{ steps.read_yaml.outputs.['version'] }}
+            ghcr.io/pradumnasaraf/oswp:${{ steps.read_yaml.outputs['version'] }}
           labels: ${{ steps.meta.outputs.labels }}
