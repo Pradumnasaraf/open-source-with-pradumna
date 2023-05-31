@@ -1,8 +1,8 @@
 name: Build and Publish Docker Image to Docker Hub
 
 on:
-  push:
-    branches: ["main"]
+  release:
+    types: [published]
     
 jobs:
   build:
@@ -17,8 +17,14 @@ jobs:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_PASSWORD }}
 
+      - name: Read YAML file for version
+        uses: pietrobolcato/action-read-yaml@1.0.0
+        id: read_yaml
+        with:
+          config: ${{ github.workspace }}/version.yaml   
+
       - name: Build the Docker image
-        run: docker build . --file Dockerfile --tag ${{ secrets.DOCKERHUB_USERNAME }}/oswp
+        run: docker build . --file Dockerfile --tag ${{ secrets.DOCKERHUB_USERNAME }}/oswp:${{ steps.read_yaml.outputs.['version'] }}
 
       - name: Docker Push
-        run: docker push ${{ secrets.DOCKERHUB_USERNAME }}/oswp
+        run: docker push ${{ secrets.DOCKERHUB_USERNAME }}/oswp:${{ steps.read_yaml.outputs.['version'] }}
