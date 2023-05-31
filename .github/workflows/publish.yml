@@ -1,6 +1,7 @@
 name: Build and Publish Docker Image to Docker Hub
 
 on:
+  workflow_dispatch:
   release:
     types: [published]
     
@@ -24,7 +25,7 @@ jobs:
           config: ${{ github.workspace }}/version.yaml   
 
       - name: Build the Docker image
-        run: docker build . --file Dockerfile --tag ${{ secrets.DOCKERHUB_USERNAME }}/oswp:${{ steps.read_yaml.outputs.['version'] }}
+        run: docker build . --file Dockerfile --tag ${{ secrets.DOCKERHUB_USERNAME }}/oswp:${{ steps.read_yaml.outputs['version'] }}
 
       - name: Docker Push
         run: docker push ${{ secrets.DOCKERHUB_USERNAME }}/oswp:${{ steps.read_yaml.outputs['version'] }}
