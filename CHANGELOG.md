@@ -1,3 +1,12 @@
+## [1.6.1](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.6.0...v1.6.1) (2023-05-31)
+
+
+### Bug Fixes
+
+* Add image version to DockerHub + GHCR ([cea1f60](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/cea1f606022fc9c48e16ea3beb26abd1b7415d7d))
+
+
+
 # [1.6.0](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.5.1...v1.6.0) (2023-02-05)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * responsiveness of Navbar ([#233](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/233)) ([4171215](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/4171215cc7395687004153df69ee01cd558f23b8))
-
-
-
-## [1.4.1](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.4.0...v1.4.1) (2022-11-03)
-
-
-### Bug Fixes
-
-* broken Blog links ([2b09e45](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/2b09e45e15a5179bd3a12ee83663d75bfd6ecf62))
 
 
 
