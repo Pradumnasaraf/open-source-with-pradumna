@@ -1,3 +1,12 @@
+## [1.6.2](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.6.1...v1.6.2) (2023-05-31)
+
+
+### Bug Fixes
+
+* DockerHub + GHCR workflow ([26e7516](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/26e75166b850e717faa94b171261997947590ed3))
+
+
+
 ## [1.6.1](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.6.0...v1.6.1) (2023-05-31)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Dockerize the app ([a818b7b](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/a818b7b3843dd081b5cdde06028db04e784ea6c1))
-
-
-
-## [1.4.2](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.4.1...v1.4.2) (2022-11-19)
-
-
-### Bug Fixes
-
-* responsiveness of Navbar ([#233](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/233)) ([4171215](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/4171215cc7395687004153df69ee01cd558f23b8))
 
 
 
