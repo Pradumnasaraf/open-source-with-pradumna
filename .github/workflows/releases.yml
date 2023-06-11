@@ -6,19 +6,21 @@ on:
 
 jobs:
   changelog:
+    name: Create Release and Changelog
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - name: conventional Changelog Action
+      - name: Changelog + Version update
         id: changelog
-        uses: TriPSs/conventional-changelog-action@v3.7.1
+        uses: TriPSs/conventional-changelog-action@v3
         with:
           github-token: ${{ secrets.PA_TOKEN }}
           version-file: './version.yaml'
 
-      - name: create release
+      - name: Create Release
         if: steps.changelog.outputs.skipped == 'false'
         uses: ncipollo/release-action@v1
         with:
@@ -26,4 +28,3 @@ jobs:
           tag	: ${{ steps.changelog.outputs.tag }}
           name: ${{ steps.changelog.outputs.tag }}
           body: ${{ steps.changelog.outputs.clean_changelog }}
-
