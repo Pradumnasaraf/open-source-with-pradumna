@@ -1,4 +1,4 @@
-<p align="center"><img alt="Open Source Pradumna Saraf Banner" src="https://user-images.githubusercontent.com/51878265/189920612-88c0ebba-1de1-46aa-a221-14c0b301c9b4.png"></p>
+<p align="center"><img alt="Open Source Pradumna Saraf Banner" src="https://github.com/Pradumnasaraf/open-source-with-pradumna/assets/51878265/7bea2255-0f92-4a4e-bb74-fc88bd87ed0a"></p>
 
 <h3 align="center"><b>"Building the repo you need to get started with Open Source"</b></h3>
 
