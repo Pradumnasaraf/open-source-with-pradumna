@@ -1,3 +1,12 @@
+## [1.6.3](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.6.2...v1.6.3) (2023-06-25)
+
+
+### Bug Fixes
+
+* the domain name ([30ae73c](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/30ae73c7c22fb4f2d2ada454195b18473ff4b04b))
+
+
+
 ## [1.6.2](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.6.1...v1.6.2) (2023-05-31)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * Bootcamp page image style fixed ([#243](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/243)) ([64244ea](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/64244ea9b8243699a39317eb9d1b79c2cc9d6279))
-
-
-
-# [1.5.0](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.4.2...v1.5.0) (2022-12-16)
-
-
-### Features
-
-* Dockerize the app ([a818b7b](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/a818b7b3843dd081b5cdde06028db04e784ea6c1))
 
 
 
