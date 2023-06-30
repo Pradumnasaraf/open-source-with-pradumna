@@ -1,3 +1,12 @@
+## [1.6.4](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.6.3...v1.6.4) (2023-06-30)
+
+
+### Bug Fixes
+
+* og image ([cc03096](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/cc030963387b7ccb0ad61f0264eceef88b1c5ea3))
+
+
+
 ## [1.6.3](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.6.2...v1.6.3) (2023-06-25)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Added meta tags for social preview ([e959f14](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/e959f14c8499424861bec304d079351b9ac33237))
-
-
-
-## [1.5.1](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.5.0...v1.5.1) (2023-01-10)
-
-
-### Bug Fixes
-
-* Bootcamp page image style fixed ([#243](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/243)) ([64244ea](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/64244ea9b8243699a39317eb9d1b79c2cc9d6279))
 
 
 
