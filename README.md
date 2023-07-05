@@ -35,7 +35,7 @@ For Eg: There is a separate page for Resources and Bootcamp.
 
 <div align="center">
  
-**If you find the repository helpful, please consider sponsoring my efforts via [GitHub Sponsors](https://github.com/sponsors/Pradumnasaraf).**
+<b>If you find the repository helpful, please consider sponsoring my efforts via <a href="https://github.com/sponsors/Pradumnasaraf">GitHub Sponsors</a> </b>
 
 </div>
 
