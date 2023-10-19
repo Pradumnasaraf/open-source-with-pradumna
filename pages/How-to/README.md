@@ -36,6 +36,7 @@
 |**26**|![Create a branch](https://user-images.githubusercontent.com/51878265/195896447-42001878-e09e-4ac2-a79e-203b5cbaeeb4.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/create-branch.md)
 |**27**|![Review a PR on our local system](https://user-images.githubusercontent.com/51878265/198944333-6357ae5e-531b-421e-bc01-4904665da912.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/review-pr-locally.md)|
 |**28**|![Use GitHub Codespaces](https://user-images.githubusercontent.com/51878265/206258171-df44aff5-92b2-4f7e-926b-ff1efd06af85.png)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/use-codespaces.md)|
+|**29**|![Use GitHub Gists](https://github.com/Pradumnasaraf/open-source-with-pradumna/assets/51878265/934dd504-f51b-443f-9e32-253f9fd83f17)|[![btn](https://user-images.githubusercontent.com/51878265/188311903-d9825c83-db42-45ba-8e1b-d8d9f2c78b09.png)](guide/use-github-gists.md)|
 ||||
 
 <br>
