@@ -1,3 +1,12 @@
+## [1.6.6](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.6.5...v1.6.6) (2024-01-16)
+
+
+### Bug Fixes
+
+* Add compose.yml file with oswp-website service configuration ([a53dff2](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/a53dff22288ded48c43d064bc1416c126f6a3c52))
+
+
+
 ## [1.6.5](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.6.4...v1.6.5) (2023-07-05)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * DockerHub + GHCR workflow ([26e7516](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/26e75166b850e717faa94b171261997947590ed3))
-
-
-
-## [1.6.1](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.6.0...v1.6.1) (2023-05-31)
-
-
-### Bug Fixes
-
-* Add image version to DockerHub + GHCR ([cea1f60](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/cea1f606022fc9c48e16ea3beb26abd1b7415d7d))
 
 
 
