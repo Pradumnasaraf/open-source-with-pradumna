@@ -1,7 +1,7 @@
 version: '3.9'
 
 services:
-  devops-website:
+  oswp-website:
     container_name: oswp-website
     build: 
       context: .
