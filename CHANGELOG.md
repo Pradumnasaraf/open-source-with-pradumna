@@ -1,3 +1,12 @@
+# [1.7.0](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.6.6...v1.7.0) (2024-01-28)
+
+
+### Features
+
+* add Google Analytics ([55c32f0](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/55c32f0cc3393fd73a83b00299b8b0ff3340427f))
+
+
+
 ## [1.6.6](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.6.5...v1.6.6) (2024-01-16)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * the domain name ([30ae73c](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/30ae73c7c22fb4f2d2ada454195b18473ff4b04b))
-
-
-
-## [1.6.2](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.6.1...v1.6.2) (2023-05-31)
-
-
-### Bug Fixes
-
-* DockerHub + GHCR workflow ([26e7516](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/26e75166b850e717faa94b171261997947590ed3))
 
 
 
