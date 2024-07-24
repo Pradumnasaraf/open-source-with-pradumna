@@ -1,3 +1,8 @@
+---
+sidebar_position: 28
+title: Review a PR on local system
+---
+
 ## How to review a PR on our local system ?
 
 Review a PR on our local system allow our administrators or maintainers to check on the changes proposed in pull requests in there local system or request further changes before the pull request is merged by checking the working output on there local system.   

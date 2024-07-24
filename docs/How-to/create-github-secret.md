@@ -1,3 +1,8 @@
+---
+sidebar_position: 17
+title: Create GitHub Secrets
+---
+
 # Creating GitHub Secrets
 
 1. To create a github secret, navigate to the main page of your repository on [GitHub](https://github.com)

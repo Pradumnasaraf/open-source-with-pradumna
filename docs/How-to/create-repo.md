@@ -1,4 +1,9 @@
-# How to create a repository?
+---
+sidebar_position: 24
+title: Create a Repository
+---
+
+ How to create a repository?
 
 ## What is a repository?
 

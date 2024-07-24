@@ -1,3 +1,8 @@
+---
+sidebar_position: 30
+title: Use GitHub Gists
+---
+
 # Github Gist
 
 - GitHub Gists are a simple way to share code snippets with others.

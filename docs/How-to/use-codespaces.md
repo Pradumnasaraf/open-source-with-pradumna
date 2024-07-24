@@ -1,3 +1,8 @@
+---
+sidebar_position: 29
+title: Use GitHub Codespaces
+---
+
 # Code Spaces
 
 A codespace is a development environment that's hosted in the cloud.

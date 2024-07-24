@@ -1,3 +1,8 @@
+---
+sidebar_position: 27
+title: Create a Branch
+---
+
 ## What is Branches in Git ?
 Git Branch is a new or separate version of main repository. A Git project can have more than one branch, branches create another line of development in the project. The primary or default branch in Git is the master branch.
  

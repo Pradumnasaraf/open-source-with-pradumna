@@ -1,3 +1,9 @@
+---
+sidebar_position: 8
+title: Clone a Repository
+---
+
+
 # Cloning a repo
 
 In order to contribute to a repo, you have to first set it up on your local system. This process of creating a local copy of the repo is known as cloning a repository.

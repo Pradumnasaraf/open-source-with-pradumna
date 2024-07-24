@@ -1,3 +1,8 @@
+---
+sidebar_position: 20
+title: Create a Release
+---
+
 # Creating a release
 
 1. Firstly go to [GitHub](https://github.com) and navigate to the main page of your repository.

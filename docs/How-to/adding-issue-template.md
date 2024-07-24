@@ -1,3 +1,8 @@
+---
+sidebar_position: 9
+title: Add an Issue Template
+---
+
 # How to create issue templates ?
 An issue template is a template with prepopulated information about how an issue can be mentioned.
 

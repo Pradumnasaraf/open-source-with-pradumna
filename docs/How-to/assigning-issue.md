@@ -1,3 +1,8 @@
+---
+sidebar_position: 11
+title: Assign an Issue
+---
+
 # Creating and assigning an issue from a repository
 
 There are multiple ways to create an issue on a GitHub repository, but for beginners, the best way to create an issue is by creating an issue from the repository on the GitHub website.

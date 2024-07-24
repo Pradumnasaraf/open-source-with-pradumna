@@ -1,3 +1,9 @@
+---
+sidebar_position: 5
+title: Start a Discussion
+---
+
+
 ## Starting Discussion in GitHub
 **1.** Go to the **repo** in which you want to start a discussion in or use this link - `https://github.com/{repo-owner}/{repo-name}/discussions`.
 

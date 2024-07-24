@@ -1,3 +1,9 @@
+---
+sidebar_position: 2
+title: Raising an Issue Template
+---
+
+
 # How to create an issue?
 
 -> Issues can be created in a variety of ways.

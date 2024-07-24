@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+title: Delete a Repository
+---
+
 ## Deleting a repository
 
 You can delete any repository or fork if you're either an organization owner or have admin permissions for the repository or fork. Deleting a forked repository does not delete the upstream repository.

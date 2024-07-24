@@ -1,3 +1,8 @@
+---
+sidebar_position: 6
+title: Link an Issue with a PR
+---
+
 # How to Link and Issue no with a PR ❓
 ### Things to keep in 🧠
 > You can link up to **ten issues** to each pull request.

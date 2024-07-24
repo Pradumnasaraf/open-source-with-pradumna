@@ -1,3 +1,8 @@
+---
+sidebar_position: 12
+title: Fork a Repository
+---
+
 ## How to fork a repository
 
 First log into your github account and after finding the repo you want to copy or contribute to, do the following steps.

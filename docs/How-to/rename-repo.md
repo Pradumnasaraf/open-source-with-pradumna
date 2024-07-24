@@ -1,3 +1,8 @@
+---
+sidebar_position: 25
+title: Rename a Repository
+---
+
 # How to Rename a Repository
 
 Whenever you rename a repository, keep in mind certain elements will also be associated with the new name, such as:

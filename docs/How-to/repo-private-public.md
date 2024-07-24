@@ -1,3 +1,8 @@
+---
+sidebar_position: 23
+title: Make a Repository Private/Public
+---
+
 # How to make a repository Private/Public
 
 There are 2 methods to make a repository public/private.

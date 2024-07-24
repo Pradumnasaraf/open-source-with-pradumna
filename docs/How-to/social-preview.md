@@ -1,3 +1,8 @@
+---
+sidebar_position: 15
+title: Add a Social Preview to your Repository
+---
+
 # Adding social preview to your repository
 
 When we have an open-source project, it is important to share it so people can be interested in it and be able to contribute to it. Images on social media have a great impact because they can make your content stand out from the others.

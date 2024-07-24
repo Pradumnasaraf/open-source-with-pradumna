@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+title: Add a Sponsor Button
+---
 
 # Adding a sponsor button to your repository
 

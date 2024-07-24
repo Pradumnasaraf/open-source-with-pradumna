@@ -1,3 +1,8 @@
+---
+sidebar_position: 3
+title: Create a Pull Request
+---
+
 ## What is a pull request ?
  
 A pull request is a method for submitting contributions to a repository, with some extra changes made by the individual. 

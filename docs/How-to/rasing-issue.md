@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+title: Raising an Issue
+---
+
 ## Creating an Issue on GitHub
 
 To raise an issue, go to the repository you would like to raise an issue on using the link - `https://github.com/{repo-owner}/{repo-name}/issues`

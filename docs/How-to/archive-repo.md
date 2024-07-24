@@ -1,3 +1,7 @@
+---
+sidebar_position: 22
+title: Archive a Repository
+---
 ## How to archive a repository
 
 ### Step One :
