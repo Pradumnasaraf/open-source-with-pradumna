@@ -1,7 +1,0 @@
-- Pages
-  - <a href="https://os.pradumnasaraf.dev/#/pages/Bootcamp">Bootcamp</a>
-  - <a href="https://os.pradumnasaraf.dev/#/pages/How-to/README">How to</a>
-  - <a href="https://os.pradumnasaraf.dev/#/pages/Resources">Resources</a>
-  - <a href="https://os.pradumnasaraf.dev/#/pages/Beginners">Beginner Friendly Repo</a>
-  - <a href="https://os.pradumnasaraf.dev/#/pages/Regular">Regular Content</a>
-  - <a href="https://os.pradumnasaraf.dev/#/pages/Faq">FAQ</a>

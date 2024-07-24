@@ -1,11 +1,7 @@
-version: '3.9'
-
 services:
-  oswp-website:
-    container_name: oswp-website
-    build: 
+  server:
+    build:
       context: .
-      dockerfile: Dockerfile
-    image: oswp-website
     ports:
-      - 8000:80
+      - 3000:3000
+    container_name: server
