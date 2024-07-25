@@ -25,13 +25,13 @@ Yes, you can contribute to documentation, articles and tutorials, testing/user e
 
 ##### 5) Where to learn Git and GitHub?
 
-You can check out resources in [How to?](How-to/README.md), [Resources](Resources.md), and [Bootcamp](Bootcamp.md) pages for the same.
+You can check out resources in [How to?](../docs/how-to/create-repo.md), [Resources](../docs/Resources.md), and [Bootcamp](../docs/Bootcamp.md) pages for the same.
 
 ##### 6) How to get started with Open Source?
 
 Steps:
 
-- 1) Start with learning the basics of **Git** and **GitHub**. You can check out resources in, [Resources](Resources.md), [Bootcamp](Bootcamp.md), and [How to?](How-to/README.md).
+- 1) Start with learning the basics of **Git** and **GitHub**. You can check out resources in, [Resources](../docs/Resources.md), [Bootcamp](../docs/Bootcamp.md), and [How to?](../docs/how-to/create-repo.md).
 
 - 2) Once you are familiar with the basics, start contributing to beginner-friendly projects to get familiar with the workflow and terminology of Open Source, Git, and GitHub. You can find some projects on the [Beginner Friendly Projects](Beginners.md) page. Also, contributing to your friend's project is a great way to get started.
 
