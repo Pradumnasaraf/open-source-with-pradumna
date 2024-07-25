@@ -67,6 +67,11 @@ const config = {
       },
       footer: {
         style: 'light',
+        logo: {
+          alt: 'OSWP Logo',
+          src: 'img/logo.svg',
+          href: 'https://os.pradumnasaraf.dev',
+        },
         copyright: `Copyright © ${new Date().getFullYear()} Pradumna Saraf.`,
       },
       prism: {
