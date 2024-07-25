@@ -6,8 +6,6 @@
 
 This repo contains **resources and materials** to learn and get yourself started with **Open Source, Git and GitHub**.
 
-The repo content is divided into several `Pages` for better structuring, easy navigation and making learning easier.
-
 For Eg: There is a separate page for Resources and Bootcamp.
 
 <h3 align="center">This repo is hosted at <a href="https://os.pradumnasaraf.dev/">os.pradumnasaraf.dev</a></h3>
