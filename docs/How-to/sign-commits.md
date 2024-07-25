@@ -20,7 +20,6 @@ $ gpg --list-keys
 ```
 
  <img width="750" alt="Screenshot 2022-10-03 at 8 02 52 PM" src="https://www.poftut.com/wp-content/uploads/2018/11/img_5bfa8a3061014.png"></img>
- <br/>
 
 ### Step 2 :
 
