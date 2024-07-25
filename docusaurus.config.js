@@ -54,7 +54,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/Pradumnasaraf/DevOps',
+            href: 'https://github.com/Pradumnasaraf/open-source-with-pradumna',
             label: 'GitHub',
             position: 'right',
           }, 

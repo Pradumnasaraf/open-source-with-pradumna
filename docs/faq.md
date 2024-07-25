@@ -25,15 +25,15 @@ Yes, you can contribute to documentation, articles and tutorials, testing/user e
 
 ##### 5 Where to learn Git and GitHub?
 
-You can check out resources in [How to?](https://os.pradumnasaraf.dev/docs/how-to/create-repo), [Learning Resources](https://os.pradumnasaraf.dev/resources), and [Bootcamp](https://os.pradumnasaraf.dev/bootcamp) pages for the same.
+You can check out resources in [How to?](./how-to/create-repo.md), [Learning Resources](./resources.md), and [Bootcamp](./bootcamp.md) pages for the same.
 
 ##### 6 How to get started with Open Source?
 
 Steps:
 
-1. Start with learning the basics of **Git** and **GitHub**. You can check out resources in [Resources](https://os.pradumnasaraf.dev/resources), [Bootcamp](https://os.pradumnasaraf.dev/bootcamp), and [How to?](https://os.pradumnasaraf.dev/docs/how-to/create-repo).
+1. Start with learning the basics of **Git** and **GitHub**. You can check out resources in [Resources](./resources.md), [Bootcamp](./bootcamp.md), and [How to?](./how-to/create-repo.md).
 
-2. Once you are familiar with the basics, start contributing to beginner-friendly projects to get familiar with the workflow and terminology of Open Source, Git, and GitHub. You can find some projects on the [Beginner Friendly Projects](https://os.pradumnasaraf.dev/beginners) page. Also, contributing to your friend's project is a great way to get started.
+2. Once you are familiar with the basics, start contributing to beginner-friendly projects to get familiar with the workflow and terminology of Open Source, Git, and GitHub. You can find some projects on the [Beginner Friendly Projects](./beginners.md) page. Also, contributing to your friend's project is a great way to get started.
 
 3. Do join a community so that you can get help and guidance from the community members if you get stuck somewhere. I will recommend joining EddieHub Community on [Discord](http://discord.eddiehub.org/).
 
@@ -41,4 +41,4 @@ Steps:
 
 ##### 7 How to find Open Source projects to contribute to?
 
-You can find some projects on the [Beginner Friendly Projects](https://os.pradumnasaraf.dev/beginners) page. Also, I have written a Blog on [5 ways to find projects in Open Source](https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-open-source) you can check it out.
+You can find some projects on the [Beginner Friendly Projects](./beginners.md) page. Also, I have written a Blog on [5 ways to find projects in Open Source](https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-open-source) you can check it out.
