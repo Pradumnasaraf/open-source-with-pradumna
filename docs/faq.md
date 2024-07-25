@@ -25,7 +25,7 @@ Yes, you can contribute to documentation, articles and tutorials, testing/user e
 
 ##### 5 Where to learn Git and GitHub?
 
-You can check out resources in [How to?](), [Learning Resources](https://os.pradumnasaraf.dev/resources), and [Bootcamp](https://os.pradumnasaraf.dev/bootcamp) pages for the same.
+You can check out resources in [How to?](./how-to/create-repo.md), [Learning Resources](./resources.md), and [Bootcamp](./bootcamp.md) pages for the same.
 
 ##### 6 How to get started with Open Source?
 
