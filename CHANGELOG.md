@@ -1,3 +1,12 @@
+## [2.0.2](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v2.0.1...v2.0.2) (2024-07-27)
+
+
+### Bug Fixes
+
+* Rename FAQ.md to Q&A.md and update content ([664cf3f](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/664cf3f6620c980d634006ccce0f44a53b5de081))
+
+
+
 ## [2.0.1](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v2.0.0...v2.0.1) (2024-07-25)
 
 
@@ -35,15 +44,6 @@ feat: Auto deployment with GH to Vercel
 ### Bug Fixes
 
 * Add compose.yml file with oswp-website service configuration ([a53dff2](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/a53dff22288ded48c43d064bc1416c126f6a3c52))
-
-
-
-## [1.6.5](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.6.4...v1.6.5) (2023-07-05)
-
-
-### Bug Fixes
-
-* sponsor message in the README ([#258](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/258)) ([9b228df](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/9b228dfedf009a11cd529c5194a5acb99949fce7))
 
 
 
