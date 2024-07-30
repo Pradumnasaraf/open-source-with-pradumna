@@ -1,3 +1,12 @@
+## [2.1.1](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v2.1.0...v2.1.1) (2024-07-30)
+
+
+### Bug Fixes
+
+* Update README.md and remove unnecessary content ([a6de739](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/a6de739c1dc94aa19b7137110420f0c1363fbf16))
+
+
+
 # [2.1.0](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v2.0.2...v2.1.0) (2024-07-30)
 
 
@@ -35,15 +44,6 @@
 
 * use Docusaurus
 feat: Auto deployment with GH to Vercel
-
-
-
-# [1.7.0](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.6.6...v1.7.0) (2024-01-28)
-
-
-### Features
-
-* add Google Analytics ([55c32f0](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/55c32f0cc3393fd73a83b00299b8b0ff3340427f))
 
 
 
