@@ -1,3 +1,12 @@
+# [2.1.0](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v2.0.2...v2.1.0) (2024-07-30)
+
+
+### Features
+
+* Add feedback and suggestions page ([b3fa7f0](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/b3fa7f0467607ed7522d71e91c2b5d8a56fe1c01))
+
+
+
 ## [2.0.2](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v2.0.1...v2.0.2) (2024-07-27)
 
 
@@ -35,15 +44,6 @@ feat: Auto deployment with GH to Vercel
 ### Features
 
 * add Google Analytics ([55c32f0](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/55c32f0cc3393fd73a83b00299b8b0ff3340427f))
-
-
-
-## [1.6.6](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.6.5...v1.6.6) (2024-01-16)
-
-
-### Bug Fixes
-
-* Add compose.yml file with oswp-website service configuration ([a53dff2](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/a53dff22288ded48c43d064bc1416c126f6a3c52))
 
 
 
