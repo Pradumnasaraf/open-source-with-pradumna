@@ -2,23 +2,9 @@
 
 <h3 align="center"><b>"Building the repo you need to get started with Open Source"</b></h3>
 
-## Repo Navigation
-
-This repo contains **resources and materials** to learn and get yourself started with **Open Source, Git and GitHub**.
-
-For Eg: There is a separate page for Resources and Bootcamp.
-
-<h3 align="center">This repo is hosted at <a href="https://os.pradumnasaraf.dev/">os.pradumnasaraf.dev</a></h3>
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg "Open In Gitpod")](https://gitpod.io/#https://github.com/Pradumnasaraf/open-source-with-pradumna)
+This repo contains resources and materials to learn and get yourself started with **Open Source, Git and GitHub**.
 
 <br>
-
-> **Follow [@Pradumna_saraf](https://twitter.com/pradumna_saraf) on Twitter to learn more about it**.
-
-<br>
-
-#### Table of Pages
 
 | Section/pages                                                                                                                        | Description                                                                                                                                 |                                                                      Page (Link- clickable)                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -32,12 +18,5 @@ For Eg: There is a separate page for Resources and Bootcamp.
 ---
 
 <div align="center">
- 
-<b>If you find the repository helpful, please consider sponsoring my efforts via <a href="https://github.com/sponsors/Pradumnasaraf">GitHub Sponsors</a> </b>
-
-</div>
-
-<div align="center">
-    <h3>Don't forget to ⭐ this repo</h3>
-    <h5>Building with the COMMUNITY for the COMMUNITY ❤️</h5>
+    <h5>Building with the COMMUNITY for the COMMUNITY!</h5>
 </div>
