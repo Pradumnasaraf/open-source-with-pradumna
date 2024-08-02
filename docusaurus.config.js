@@ -47,7 +47,15 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
+      algolia: {
+        apiKey: '60c99b249d7feccb2a8e5b336a9b7070',
+        indexName: 'os',
+        appId: 'UE1UAJS39Y', // Ensure you have the correct App ID if using a multi-application setup
+        contextualSearch: true, // Optional: contextual search
+        // Optional: see doc section below
+        // searchParameters: {},
+        //... other algolia configuration
+      },
       image: 'img/oswp-repo-card.png',
       navbar: {
         title: 'OSWP',
