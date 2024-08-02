@@ -1,3 +1,12 @@
+# [2.2.0](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v2.1.1...v2.2.0) (2024-08-02)
+
+
+### Features
+
+* add algolia search functionality ([852d24c](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/852d24c982fd53a37fc327fa6a14b9c014573711))
+
+
+
 ## [2.1.1](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v2.1.0...v2.1.1) (2024-07-30)
 
 
@@ -31,19 +40,6 @@
 ### Bug Fixes
 
 * V2 cleanup ([#274](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/274)) ([f7752a7](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/f7752a7561d147fdca575695820e0ad1b3a4069f))
-
-
-
-# [2.0.0](https://github.com/Pradumnasaraf/open-source-with-pradumna/compare/v1.7.0...v2.0.0) (2024-07-25)
-
-
-* BREAKING CHANGE: V2 (Use Docusaurus) (#273) ([a5b75f7](https://github.com/Pradumnasaraf/open-source-with-pradumna/commit/a5b75f7f9ac65cca28734af20c0f1a6695adc551)), closes [#273](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/273)
-
-
-### BREAKING CHANGES
-
-* use Docusaurus
-feat: Auto deployment with GH to Vercel
 
 
 
