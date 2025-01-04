@@ -1,10 +1,11 @@
 ---
 sidebar_position: 7
 title: Review a Pull Request
+description: A step-by-step guide to review a Pull Request in GitHub.
+tags: ["GitHub", "Pull Request", "Review"]
+keywords: ["GitHub", "Pull Request", "Review"]
+slug: "/how-to/reviewing-pr"
 ---
-
-
-# How to review a PR ?
 
 Reviews allow collaborators to comment on the changes proposed in pull requests, approve the changes, or request further changes before the pull request is merged. Repository administrators or maintainers can require that all pull requests are approved before being merged.
 

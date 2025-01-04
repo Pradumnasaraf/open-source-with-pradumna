@@ -1,6 +1,10 @@
 ---
 sidebar_position: 17
-title: Create GitHub Secrets
+title: Creating GitHub Secrets
+description: A step-by-step guide to create GitHub secrets in a repository.
+tags: ["GitHub", "Secrets", "Repository"]
+keywords: ["GitHub", "Secrets", "Repository"]
+slug: "/how-to/create-github-secret"
 ---
 
 # Creating GitHub Secrets

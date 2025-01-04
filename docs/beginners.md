@@ -1,9 +1,11 @@
 ---
 sidebar_position: 5
-title: Begeinner Friendly Projects
+title: Beginner Friendly Projects
+description: A list of beginner-friendly projects to help you get started with Open Source.
+tags: ["Open Source", "Beginner Friendly", "Projects"]
+keywords: ["Open Source", "Beginner Friendly", "Projects"]
+slug: "/beginners" 
 ---
-
-Beginner friendly projects
 
 |No.|Project Social Preview|Skill Required| Link to the project|
 |:--:|:--:|:--:|:---:|

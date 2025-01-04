@@ -1,7 +1,10 @@
 ---
 sidebar_position: 8
-description: Feedback and suggestions
 title: Feedback & Suggestions
+description: Share your feedback and suggestions for this project/website.
+tags: ["Feedback", "Suggestions"]
+keywords: ["Feedback", "Suggestions"]
+slug: "/feedback"
 ---
 
 Hey open source enthusiasts!

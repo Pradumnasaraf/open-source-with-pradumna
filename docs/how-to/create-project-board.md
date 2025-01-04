@@ -1,6 +1,10 @@
 ---
 sidebar_position: 21
-title: Create a Project Board
+title: Creating a Project Board
+description: A step-by-step guide to create a project board in a GitHub repository.
+tags: ["GitHub", "Project Board"]
+keywords: ["GitHub", "Project Board"]
+slug: "/how-to/create-project-board"
 ---
 
 ## Project Board

@@ -1,6 +1,10 @@
 ---
 sidebar_position: 6
 title: Social Posts
+description: A collection of social media posts by Pradumna Saraf.
+tags: ["Social Media", "Pradumna Saraf"]
+keywords: ["Social Media", "Pradumna Saraf"]
+slug: "/social-posts"
 ---
 
 > **CREDIT** - Following images are built with [`Poet.so`](https://poet.so/).

@@ -1,16 +1,17 @@
 ---
 sidebar_position: 25
 title: Rename a Repository
+description: A step-by-step guide to rename a repository in GitHub.
+tags: ["GitHub", "Repository"]
+keywords: ["GitHub", "Repository"]
+slug: "/how-to/rename-repo"
 ---
-
-# How to Rename a Repository
 
 Whenever you rename a repository, keep in mind certain elements will also be associated with the new name, such as:
 - Issues
 - Wikis
 - Stars 
 - Followers
-
 
 ##  Let us look at the steps:
 

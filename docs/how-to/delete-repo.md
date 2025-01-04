@@ -1,9 +1,11 @@
 ---
 sidebar_position: 1
-title: Delete a Repository
+title: Deleting a GitHub Repository
+description: A step-by-step guide to delete a repository in GitHub.
+tags: ["GitHub", "Repository"]
+keywords: ["GitHub", "Repository"]
+slug: "/how-to/delete-repo"
 ---
-
-## Deleting a repository
 
 You can delete any repository or fork if you're either an organization owner or have admin permissions for the repository or fork. Deleting a forked repository does not delete the upstream repository.
 

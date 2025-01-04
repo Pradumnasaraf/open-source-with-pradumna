@@ -1,9 +1,11 @@
 ---
 sidebar_position: 24
-title: Create a Repository
+title: Creating a Repository
+description: A step-by-step guide to create a repository in GitHub.
+tags: ["GitHub", "Repository"]
+keywords: ["GitHub", "Repository"]
+slug: "/how-to/create-repo"
 ---
-
- How to create a repository?
 
 ## What is a repository?
 

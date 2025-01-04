@@ -1,9 +1,11 @@
 ---
 sidebar_position: 3
-title: Create a Pull Request
+title: Creating a Pull Request
+description: A step-by-step guide to create a pull request in GitHub.
+tags: ["GitHub", "Pull Request"]
+keywords: ["GitHub", "Pull Request"]
+slug: "/how-to/creating-pr"
 ---
-
-## What is a pull request ?
  
 A pull request is a method for submitting contributions to a repository, with some extra changes made by the individual. 
 Now there are two ways of creating a pull request, the procedure is mostly the same the only thing that differs is the method. A pull request could either be made with the help of using the github UI or making changes locally on your machine via terminal.

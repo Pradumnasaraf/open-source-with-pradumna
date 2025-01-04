@@ -1,6 +1,10 @@
 ---
 sidebar_position: 20
-title: Create a Release
+title: Creating a Release
+description: A step-by-step guide to create a release in a GitHub repository.
+tags: ["GitHub", "Release"]
+keywords: ["GitHub", "Release"]
+slug: "/how-to/create-releases"
 ---
 
 # Creating a release

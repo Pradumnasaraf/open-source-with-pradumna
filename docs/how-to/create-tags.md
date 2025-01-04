@@ -1,9 +1,11 @@
 ---
 sidebar_position: 19
-title: Create a Tag
+title: Creating GitHub Tags
+description: A step-by-step guide to create tags in a GitHub repository.
+tags: ["GitHub", "Tags"]
+keywords: ["GitHub", "Tags"]
+slug: "/how-to/create-tags"
 ---
-
-# What are Github Tags ?
 
 Tags are associated with commits, so you can use a tag to mark an individual point in your repository's history, including a version number for a release.
 

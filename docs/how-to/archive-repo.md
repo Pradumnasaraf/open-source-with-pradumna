@@ -1,8 +1,11 @@
 ---
 sidebar_position: 22
 title: Archive a Repository
+description: A step-by-step guide to archive a repository in GitHub.
+tags: ["GitHub", "Archive", "Repository"]
+keywords: ["GitHub", "Archive", "Repository"]
+slug: "/how-to/archive-repo"
 ---
-## How to archive a repository
 
 ### Step One :
 

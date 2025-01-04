@@ -1,6 +1,10 @@
 ---
 sidebar_position: 18
-title: Create a License
+title: Creating a License
+description: A step-by-step guide to create a license for your GitHub repository.
+tags: ["GitHub", "License", "Repository"]
+keywords: ["GitHub", "License", "Repository"]
+slug: "/how-to/create-license"
 ---
 
 # How to create a license

@@ -1,10 +1,12 @@
 ---
 sidebar_position: 16
-title: Use Github Pages
+title: Github Pages
+description: A step-by-step guide to publish a website using Github pages.
+tags: ["GitHub", "Pages", "Website"]
+keywords: ["GitHub", "Pages", "Website"]
+slug: "/how-to/github-pages"
 ---
 
-
-# How github pages work?
 GitHub Pages is a static site hosting service that **takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.**
 
 ## Step by step process to publish a website using Github pages:

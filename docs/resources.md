@@ -1,6 +1,10 @@
 ---
 sidebar_position: 2
 title: Resources
+description: A collection of resources to help you learn more about Open Source, Git, and GitHub.
+tags: ["Open Source", "Git", "GitHub"]
+keywords: ["Open Source", "Git", "GitHub"]
+slug: "/resources"
 ---
 
 <h3 align="center">Resources to learn more about Open Source, Git, and GitHub. </h3>

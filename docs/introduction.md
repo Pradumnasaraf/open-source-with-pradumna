@@ -1,9 +1,10 @@
 ---
 sidebar_position: 1
+title: Getting Started
+description: A guide to help you get started with Open Source, Git, and GitHub.
+tags: ["Open Source", "Git", "GitHub"]
+keywords: ["Open Source", "Git", "GitHub"]
 slug: /
-label: Introduction
-title: Open Source
-description: Introduction to Open Source
 ---
 
 If you are new to Open Source, Git, and GitHub, this guide is for you. This guide contains resources and materials to learn and get yourself started with Open Source, Git, and GitHub. 

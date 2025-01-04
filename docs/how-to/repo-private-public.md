@@ -1,14 +1,15 @@
 ---
 sidebar_position: 23
 title: Make a Repository Private/Public
+description: A step-by-step guide to make a repository private/public in GitHub.
+tags: ["GitHub", "Repository"]
+keywords: ["GitHub", "Repository"]
+slug: "/how-to/repo-private-public"
 ---
-
-# How to make a repository Private/Public
 
 There are 2 methods to make a repository public/private.
 - While creating a new repository.
 - Modifying a pre-existing repository.
-
 
 ------------
 

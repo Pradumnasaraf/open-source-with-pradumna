@@ -1,9 +1,11 @@
 ---
 sidebar_position: 31
-title: Create a Template Repo
+title: Create a Template Repository
+description: A step-by-step guide to create a template repository in GitHub.
+tags: ["GitHub", "Template Repository"]
+keywords: ["GitHub", "Template Repository"]
+slug: "/how-to/create-template-repo"
 ---
-
-# How to create a template repo?
 
 You can make an existing repository a template, so you and others can generate new repositories with the same directory structure, branches, and files.
 

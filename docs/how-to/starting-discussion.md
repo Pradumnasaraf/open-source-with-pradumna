@@ -1,10 +1,12 @@
 ---
 sidebar_position: 5
 title: Start a Discussion
+description: A step-by-step guide to start a discussion in GitHub.
+tags: ["GitHub", "Discussion"]
+keywords: ["GitHub", "Discussion"]
+slug: "/how-to/starting-discussion"
 ---
 
-
-## Starting Discussion in GitHub
 **1.** Go to the **repo** in which you want to start a discussion in or use this link - `https://github.com/{repo-owner}/{repo-name}/discussions`.
 
 

@@ -1,9 +1,11 @@
 ---
 sidebar_position: 13
 title: Star a Repository
+description: A step-by-step guide to star a repository on GitHub.
+tags: ["GitHub", "Repository", "Star"]
+keywords: ["GitHub", "Repository", "Star"]
+slug: "/how-to/star-repo"
 ---
-
-# Starring a repository on GitHub
 
 Starring a repository makes it easier to find the particular repository or topic again and helps discover similar projects and repositories on GitHub.You can also star a repository if you like it and want to show appreciation for the work done or in order to follow the updates regarding the repo later.
 

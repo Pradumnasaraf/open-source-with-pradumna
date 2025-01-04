@@ -1,9 +1,11 @@
 ---
 sidebar_position: 10
-title: Add a Pull Request Template
+title: Adding PR Template
+description: A step-by-step guide to create a PR template in a GitHub repository.
+tags: ["GitHub", "PR Template"]
+keywords: ["GitHub", "PR Template"]
+slug: "/how-to/adding-pr-template"
 ---
-
-# Create a PR Template
 
 Creating a PR template makes it easy to clarify what the proposed changes will do and receive actionable feedback from your team. Having a custom template facilitates clear communication between all team members and ensures that everyone is on the same page.
 

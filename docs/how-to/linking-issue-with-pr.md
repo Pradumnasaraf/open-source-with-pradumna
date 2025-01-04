@@ -1,9 +1,12 @@
 ---
 sidebar_position: 6
-title: Link an Issue with a PR
+title: Linking Issue with a PR
+description: A step-by-step guide to link an issue with a pull request in GitHub.
+tags: ["GitHub", "Issue", "Pull Request"]
+keywords: ["GitHub", "Issue", "Pull Request"]
+slug: "/how-to/linking-issue-with-pr"
 ---
 
-# How to Link and Issue no with a PR ❓
 ### Things to keep in 🧠
 > You can link up to **ten issues** to each pull request.
 

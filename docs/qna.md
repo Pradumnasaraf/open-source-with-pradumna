@@ -1,7 +1,10 @@
 ---
 sidebar_position: 7
 title: Q&A
-description: Frequently Asked Questions related to Open Source, Git, and GitHub.
+description: Frequently asked questions about Open Source.
+tags: ["Open Source", "FAQ"]
+keywords: ["Open Source", "FAQ"]
+slug: "/qna"
 ---
 
 

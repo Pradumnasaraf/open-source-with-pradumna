@@ -1,9 +1,11 @@
 ---
 sidebar_position: 1
 title: Raising an Issue
+description: A step-by-step guide to raise an issue on GitHub.
+tags: ["GitHub", "Issue"]
+keywords: ["GitHub", "Issue"]
+slug: "/how-to/raising-issue"
 ---
-
-## Creating an Issue on GitHub
 
 To raise an issue, go to the repository you would like to raise an issue on using the link - `https://github.com/{repo-owner}/{repo-name}/issues`
 

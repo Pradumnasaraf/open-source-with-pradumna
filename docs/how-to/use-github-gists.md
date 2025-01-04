@@ -1,9 +1,11 @@
 ---
 sidebar_position: 30
 title: Use GitHub Gists
+description: A step-by-step guide to use GitHub Gists.
+tags: ["GitHub", "Gists"]
+keywords: ["GitHub", "Gists"]
+slug: "/how-to/use-github-gists"
 ---
-
-# Github Gist
 
 - GitHub Gists are a simple way to share code snippets with others.
 - Every gist is a Git repository, meaning it can be forked and cloned.

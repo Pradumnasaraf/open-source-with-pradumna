@@ -1,10 +1,11 @@
 ---
 sidebar_position: 2
-title: Raising an Issue Template
+title: Raise an Issue with Issue Template
+description: A step-by-step guide to raise an issue in a GitHub repository.
+tags: ["GitHub", "Issue", "Issue Template"]
+keywords: ["GitHub", "Issue", "Issue Template"]
+slug: "/how-to/raise-issue-template"
 ---
-
-
-# How to create an issue?
 
 -> Issues can be created in a variety of ways.
 

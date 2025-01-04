@@ -1,9 +1,11 @@
 ---
 sidebar_position: 26
 title: Sign Commits
+description: A step-by-step guide to sign commits on GitHub.
+tags: ["GitHub", "Commits"]
+keywords: ["GitHub", "Commits"]
+slug: "/how-to/sign-commits"
 ---
-
-# How to Sign Commits on Github ?
 
 Git is cryptographically secure, but it’s not foolproof. If you’re taking work from others on the internet and want to verify that commits are actually from a trusted source, Git has a few ways to sign and verify work using GPG.
 

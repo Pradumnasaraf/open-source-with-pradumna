@@ -1,6 +1,10 @@
 ---
 sidebar_position: 11
-title: Assign an Issue
+title: Assigning an Issue
+description: A step-by-step guide to create and assign an issue from a GitHub repository.
+tags: ["GitHub", "Issue"]
+keywords: ["GitHub", "Issue"]
+slug: "/how-to/assigning-issue"
 ---
 
 # Creating and assigning an issue from a repository

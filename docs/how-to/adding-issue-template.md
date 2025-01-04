@@ -1,9 +1,12 @@
 ---
 sidebar_position: 9
-title: Add an Issue Template
+title: Adding Issue Template
+description: A step-by-step guide to create issue templates in a GitHub repository.
+tags: ["GitHub", "Issue Template"]
+keywords: ["GitHub", "Issue Template"]
+slug: "/how-to/adding-issue-template"
 ---
 
-# How to create issue templates ?
 An issue template is a template with prepopulated information about how an issue can be mentioned.
 
 ## Step by step process to create an issue template :

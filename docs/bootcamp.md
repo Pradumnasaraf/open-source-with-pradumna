@@ -1,6 +1,10 @@
 ---
 sidebar_position: 3
 title: Bootcamp
+description: A 15 day Open Source Bootcamp on my Twitter handle, in that we will go through all the elements that are involved in Open Source and its community. We also touch on technical concepts like Pull Requests, Issues, etc.
+tags: ["Open Source", "Bootcamp", "Git", "GitHub"]
+keywords: ["Open Source", "Bootcamp", "Git", "GitHub"]
+slug: "/bootcamp"
 ---
 
 <p align="center"><b>A 15 day Open Source Bootcamp on my Twitter handle, in that we will go through all the elements that are involved in Open Source and its community. We also touch on technical concepts like Pull Requests, Issues, etc.</b></p>
