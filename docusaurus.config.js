@@ -16,7 +16,11 @@ const config = {
   organizationName: 'Pradumnasaraf',
   projectName: 'open-source-with-pradumna',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
