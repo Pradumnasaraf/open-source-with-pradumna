@@ -1,6 +1,6 @@
 {
   "name": "open-source-with-pradumna",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
